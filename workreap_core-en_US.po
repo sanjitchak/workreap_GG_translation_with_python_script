@@ -1,0 +1,4677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Workreap Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-12 15:09+0000\n"
+"PO-Revision-Date: 2020-10-02 11:11+0000\n"
+"Last-Translator: Sanjit Chakrabarti\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: chat/class-chat-system.php:324
+msgid "Send a Project Offer"
+msgstr ""
+
+#: chat/class-chat-system.php:334
+msgid "Select a project"
+msgstr ""
+
+#: chat/class-chat-system.php:348
+msgid "Type message here"
+msgstr ""
+
+#: chat/class-chat-system.php:351
+msgid "Click the button to send the offer to this freelancer"
+msgstr "Click the button to send the offer to this gigster"
+
+#: chat/class-chat-system.php:352
+msgid "Send offer"
+msgstr ""
+
+#: chat/class-chat-system.php:381
+msgid "Search Users"
+msgstr ""
+
+#: chat/class-chat-system.php:437
+msgid "No Message Selected"
+msgstr ""
+
+#: chat/class-chat-system.php:439
+msgid "No message selected to display"
+msgstr ""
+
+#: chat/class-chat-system.php:517
+msgid "File Size: "
+msgstr ""
+
+#: chat/class-chat-system.php:600
+msgid "Chat Messages Found!"
+msgstr ""
+
+#: chat/class-chat-system.php:605
+msgid "No more messages..."
+msgstr ""
+
+#: chat/class-chat-system.php:610 chat/class-chat-system.php:632 
+#: chat/class-chat-system.php:728 chat/class-chat-system.php:1089 
+#: chat/class-chat-system.php:1118
+msgid "No kiddies please."
+msgstr ""
+
+#: chat/class-chat-system.php:638 chat/class-chat-system.php:734 
+#: chat/class-chat-system.php:1110
+msgid "Something went wrong."
+msgstr ""
+
+#: chat/class-chat-system.php:644
+msgid "Attachment is empty."
+msgstr ""
+
+#: chat/class-chat-system.php:704 chat/class-chat-system.php:900
+msgid "Message sent!"
+msgstr ""
+
+#: chat/class-chat-system.php:740
+msgid "Message field is required."
+msgstr ""
+
+#: chat/class-chat-system.php:1083
+msgid "Chat messages found!"
+msgstr ""
+
+#: chat/class-chat-system.php:1132
+msgid "Message deleted."
+msgstr ""
+
+#: chat/class-chat-system.php:1163
+msgid "Member Since"
+msgstr ""
+
+#: elementor/base.php:95 hooks/hooks.php:69 hooks/hooks.php:335 
+#: hooks/hooks.php:443 hooks/hooks.php:588 hooks/hooks.php:2568 
+#: elementor/shortcodes/sc-login-button.php:286
+msgid "Facebook"
+msgstr ""
+
+#: elementor/base.php:100 hooks/hooks.php:68
+msgid "Twitter"
+msgstr ""
+
+#: elementor/base.php:105 hooks/hooks.php:337 hooks/hooks.php:445 
+#: social-connect/class-linkedin.php:31
+msgid "LinkedIn"
+msgstr ""
+
+#: elementor/base.php:110 elementor/base.php:120
+msgid "Google Plus"
+msgstr ""
+
+#: elementor/base.php:115 hooks/hooks.php:72
+msgid "Instagram"
+msgstr ""
+
+#: elementor/config.php:59
+msgid "Workreap Elements"
+msgstr ""
+
+#: helpers/EmailHelper.php:109
+msgid "Copyright"
+msgstr ""
+
+#: helpers/EmailHelper.php:109
+msgid " | All Rights Reserved"
+msgstr ""
+
+#: helpers/EmailHelper.php:166
+msgid "Regards"
+msgstr ""
+
+#: hooks/hooks.php:70
+msgid "Google+"
+msgstr ""
+
+#: hooks/hooks.php:71
+msgid "Tumbler"
+msgstr ""
+
+#: hooks/hooks.php:73
+msgid "Pinterest"
+msgstr ""
+
+#: hooks/hooks.php:74
+msgid "Skype"
+msgstr ""
+
+#: hooks/hooks.php:75
+msgid "Linkedin"
+msgstr ""
+
+#: hooks/hooks.php:148 hooks/hooks.php:4358
+msgid "An error occurred, please try again later."
+msgstr ""
+
+#: hooks/hooks.php:152 hooks/hooks.php:4362
+msgid "Wrong reCaptcha. Please verify first."
+msgstr ""
+
+#: hooks/hooks.php:156 hooks/hooks.php:4366
+msgid "Please enter reCaptcha!"
+msgstr ""
+
+#: hooks/hooks.php:173
+msgid "Username should not be empty."
+msgstr ""
+
+#: hooks/hooks.php:176
+msgid "Password should not be empty."
+msgstr ""
+
+#: hooks/hooks.php:183
+msgid "Wrong email/username or password."
+msgstr ""
+
+#: hooks/hooks.php:205
+msgid "Successfully Logged in"
+msgstr ""
+
+#: hooks/hooks.php:273 hooks/hooks.php:391 hooks/hooks.php:649 
+#: hooks/hooks.php:797
+msgid "Agree our terms and conditions"
+msgstr ""
+
+#: hooks/hooks.php:282 hooks/hooks.php:401
+msgid "Regidtration"
+msgstr ""
+
+#: hooks/hooks.php:289 hooks/hooks.php:408
+msgid "Regidtration logo"
+msgstr ""
+
+#: hooks/hooks.php:294
+msgid "It's Free to Sign Up and Get Started."
+msgstr ""
+
+#: hooks/hooks.php:295
+msgid "Already have account?"
+msgstr ""
+
+#: hooks/hooks.php:295 hooks/hooks.php:414
+msgid "Sign In Now"
+msgstr ""
+
+#: hooks/hooks.php:298 hooks/hooks.php:550
+msgid "First Name"
+msgstr ""
+
+#: hooks/hooks.php:301 hooks/hooks.php:553
+msgid "Last Name"
+msgstr ""
+
+#: hooks/hooks.php:304 hooks/hooks.php:418 hooks/hooks.php:458 
+#: hooks/hooks.php:559 hooks/hooks.php:2587 
+#: elementor/shortcodes/sc-login-button.php:306
+msgid "Email"
+msgstr ""
+
+#: hooks/hooks.php:307 hooks/hooks.php:421 hooks/hooks.php:2542 
+#: elementor/shortcodes/sc-login-button.php:266
+msgid "Password"
+msgstr ""
+
+#: hooks/hooks.php:311
+msgid "I want to start as"
+msgstr ""
+
+#: hooks/hooks.php:314 hooks/hooks.php:699 hooks/hooks.php:840 
+#: hooks/hooks.php:4643 admin/post-types/dispute.php:151 
+#: admin/post-types/freelancer.php:41 admin/post-types/milstone.php:86 
+#: admin/post-types/report.php:110 elementor/shortcodes/wt-by-location.php:125 
+#: elementor/shortcodes/wt-by-skills-location.php:138 
+#: elementor/shortcodes/wt-by-skills.php:138
+msgid "Freelancer"
+msgstr "Gigster"
+
+#: hooks/hooks.php:318 hooks/hooks.php:707 hooks/hooks.php:848
+msgid "Employer "
+msgstr "Guru "
+
+#: hooks/hooks.php:327
+msgid "Sign up now"
+msgstr ""
+
+#: hooks/hooks.php:334
+msgid "Start using with"
+msgstr ""
+
+#: hooks/hooks.php:336 hooks/hooks.php:337 hooks/hooks.php:444 
+#: hooks/hooks.php:445
+msgid "or"
+msgstr ""
+
+#: hooks/hooks.php:336 hooks/hooks.php:444 hooks/hooks.php:585 
+#: hooks/hooks.php:2571 elementor/shortcodes/sc-login-button.php:289
+msgid "Google"
+msgstr ""
+
+#: hooks/hooks.php:350 hooks/hooks.php:736 hooks/hooks.php:877
+msgid "Terms & Conditions"
+msgstr ""
+
+#: hooks/hooks.php:415
+msgid "If you don't have an account?"
+msgstr ""
+
+#: hooks/hooks.php:415
+msgid "Sign up"
+msgstr ""
+
+#: hooks/hooks.php:432 hooks/hooks.php:2554 
+#: elementor/shortcodes/sc-login-button.php:272
+msgid "Keep me logged in"
+msgstr ""
+
+#: hooks/hooks.php:434
+msgid "Login now"
+msgstr ""
+
+#: hooks/hooks.php:435
+msgid "Reset Password?"
+msgstr ""
+
+#: hooks/hooks.php:442
+msgid "Login with"
+msgstr ""
+
+#: hooks/hooks.php:454
+msgid "Forget password"
+msgstr ""
+
+#: hooks/hooks.php:455
+msgid "If you have an account?"
+msgstr ""
+
+#: hooks/hooks.php:455 hooks/hooks.php:2514 hooks/hooks.php:2516 
+#: hooks/hooks.php:2518 hooks/hooks.php:2523 hooks/hooks.php:2525 
+#: hooks/hooks.php:2527
+msgid "Sign In"
+msgstr ""
+
+#: hooks/hooks.php:466 hooks/hooks.php:2595 
+#: elementor/shortcodes/sc-login-button.php:310
+msgid "Get Password"
+msgstr ""
+
+#: hooks/hooks.php:514 hooks/hooks.php:643 hooks/hooks.php:791 
+#: hooks/hooks.php:925
+msgid "Join For a Good Start"
+msgstr ""
+
+#: hooks/hooks.php:531
+msgid "01"
+msgstr ""
+
+#: hooks/hooks.php:532 hooks/hooks.php:673 hooks/hooks.php:819
+msgid "02"
+msgstr ""
+
+#: hooks/hooks.php:533 hooks/hooks.php:674 hooks/hooks.php:951
+msgid "03"
+msgstr ""
+
+#: hooks/hooks.php:535 hooks/hooks.php:676 hooks/hooks.php:953
+msgid "04"
+msgstr ""
+
+#: hooks/hooks.php:556
+msgid "username"
+msgstr ""
+
+#: hooks/hooks.php:563
+msgid "Start Now"
+msgstr ""
+
+#: hooks/hooks.php:578
+msgid "Join Now With"
+msgstr ""
+
+#: hooks/hooks.php:581
+msgid ""
+"Use a social account for faster login or easy registration to directly get "
+"in to your account"
+msgstr ""
+
+#: hooks/hooks.php:686 hooks/hooks.php:827
+msgid "Password*"
+msgstr ""
+
+#: hooks/hooks.php:689 hooks/hooks.php:830
+msgid "Retype Password*"
+msgstr ""
+
+#: hooks/hooks.php:693 hooks/hooks.php:834
+msgid "Start as :"
+msgstr ""
+
+#: hooks/hooks.php:699 hooks/hooks.php:840
+msgid " (Signup as freelancer &amp; get hired)"
+msgstr " (Signup as gigster &amp; get hired)"
+
+#: hooks/hooks.php:707 hooks/hooks.php:848
+msgid "(Signup as company/service seeker &amp; post jobs)"
+msgstr "(Signup as company/gig seeker &amp; post jobs)"
+
+#: hooks/hooks.php:714 hooks/hooks.php:855
+msgid "Your Department?"
+msgstr ""
+
+#: hooks/hooks.php:720 hooks/hooks.php:861
+msgid "No. of employees you have"
+msgstr ""
+
+#: hooks/hooks.php:740
+msgid "Back"
+msgstr ""
+
+#: hooks/hooks.php:741 hooks/hooks.php:881
+msgid "Continue"
+msgstr ""
+
+#: hooks/hooks.php:960
+msgid "Step 3"
+msgstr ""
+
+#: hooks/hooks.php:966
+msgid "We’ve sent a verification code to your email."
+msgstr ""
+
+#: hooks/hooks.php:968
+msgid "Why do I need a code?"
+msgstr ""
+
+#: hooks/hooks.php:971
+msgid "Enter Verification Code"
+msgstr ""
+
+#: hooks/hooks.php:974
+msgid "Resend Verification Code"
+msgstr ""
+
+#: hooks/hooks.php:977
+msgid "Verify now"
+msgstr ""
+
+#: hooks/hooks.php:1017 hooks/hooks.php:1088
+msgid "Congratulations"
+msgstr ""
+
+#: hooks/hooks.php:1021 hooks/hooks.php:1092
+msgid "Would you like to add your first Job?"
+msgstr "Would you like to add your first Job?"
+
+#: hooks/hooks.php:1023 hooks/hooks.php:1094
+msgid "Complete your profile and get hired."
+msgstr ""
+
+#: hooks/hooks.php:1056 hooks/hooks.php:1121 
+#: shortcodes/class-authentication.php:128
+msgid "Go to dashboard"
+msgstr ""
+
+#: hooks/hooks.php:1153 hooks/hooks.php:1258
+msgid "No kiddies please"
+msgstr ""
+
+#: hooks/hooks.php:1164
+msgid "Gender field is required"
+msgstr ""
+
+#: hooks/hooks.php:1165
+msgid "Username is required"
+msgstr ""
+
+#: hooks/hooks.php:1166
+msgid "First Name is required"
+msgstr ""
+
+#: hooks/hooks.php:1167
+msgid "Last Name is required."
+msgstr ""
+
+#: hooks/hooks.php:1168
+msgid "Email field is required."
+msgstr ""
+
+#: hooks/hooks.php:1188 hooks/hooks.php:4397
+msgid "Please add a valid email address."
+msgstr ""
+
+#: hooks/hooks.php:1208
+msgid "Username already registered"
+msgstr ""
+
+#: hooks/hooks.php:1216 hooks/hooks.php:4403
+msgid "This email already registered"
+msgstr ""
+
+#: hooks/hooks.php:1236
+msgid "A bit more details and its done"
+msgstr ""
+
+#: hooks/hooks.php:1265 hooks/hooks.php:1799
+msgid "Location field is required"
+msgstr ""
+
+#: hooks/hooks.php:1266 hooks/hooks.php:1800 hooks/hooks.php:4375
+msgid "Password field is required"
+msgstr ""
+
+#: hooks/hooks.php:1267 hooks/hooks.php:1801
+msgid "Verify Password field is required."
+msgstr ""
+
+#: hooks/hooks.php:1268 hooks/hooks.php:1802 hooks/hooks.php:4376
+msgid "User type field is required."
+msgstr ""
+
+#: hooks/hooks.php:1269 hooks/hooks.php:1803
+msgid "You should agree to terms and conditions."
+msgstr ""
+
+#: hooks/hooks.php:1283 hooks/hooks.php:1817 hooks/hooks.php:4389
+msgid "Password length should be minimum 6"
+msgstr ""
+
+#: hooks/hooks.php:1293 hooks/hooks.php:1827
+msgid "Password does not match."
+msgstr ""
+
+#: hooks/hooks.php:1305 hooks/hooks.php:1839
+msgid "Employee and department fields are required."
+msgstr ""
+
+#: hooks/hooks.php:1348
+msgid "All the fields are required added in first step"
+msgstr ""
+
+#: hooks/hooks.php:1371 hooks/hooks.php:4442
+msgid "User already exists. Please try another one."
+msgstr ""
+
+#: hooks/hooks.php:1564 hooks/hooks.php:2144 hooks/hooks.php:4604
+msgid "Some error occurs, please try again later"
+msgstr ""
+
+#: hooks/hooks.php:1575 hooks/hooks.php:4615
+msgid ""
+"Your account have been created. Please wait while your account is verified "
+"by the admin."
+msgstr ""
+
+#: hooks/hooks.php:1577 hooks/hooks.php:4617
+msgid ""
+"Your account have been created. Please verify your account through "
+"verification code, an email have been sent your email address."
+msgstr ""
+
+#: hooks/hooks.php:1701
+msgid "Portfolios updated"
+msgstr ""
+
+#: hooks/hooks.php:2137
+msgid "Your profile has been updated!"
+msgstr ""
+
+#: hooks/hooks.php:2203
+msgid "Your account has been verified successfully!"
+msgstr ""
+
+#: hooks/hooks.php:2219
+msgid ""
+"There are some error occurs, please try again later or login to your account "
+"and then try to verify your account"
+msgstr ""
+
+#: hooks/hooks.php:2276
+msgid "Account has been disabled"
+msgstr ""
+
+#: hooks/hooks.php:2286 hooks/hooks.php:2336
+msgid "No user exists"
+msgstr ""
+
+#: hooks/hooks.php:2308
+msgid "Account has been approved and email has been sent to user."
+msgstr ""
+
+#: hooks/hooks.php:2328 hooks/hooks.php:2404
+msgid "No Kiddies Please"
+msgstr ""
+
+#: hooks/hooks.php:2365
+msgid "Project has been published and email has been sent to user"
+msgstr ""
+
+#: hooks/hooks.php:2387
+msgid "Service has been published and email has been sent to user"
+msgstr "Gig has been published and email has been sent to user"
+
+#: hooks/hooks.php:2417
+msgid "Thank You"
+msgstr ""
+
+#: hooks/hooks.php:2458
+msgid "Verification code has sent on your email"
+msgstr ""
+
+#: hooks/hooks.php:2506
+msgid "user"
+msgstr ""
+
+#: hooks/hooks.php:2533 hooks/hooks.php:2551 
+#: elementor/shortcodes/sc-login-button.php:257 
+#: elementor/shortcodes/sc-login-button.php:269
+msgid "Login"
+msgstr ""
+
+#: hooks/hooks.php:2539 elementor/shortcodes/sc-login-button.php:263
+msgid "Username or email"
+msgstr ""
+
+#: hooks/hooks.php:2578 elementor/shortcodes/sc-login-button.php:296
+msgid "Forgot password?"
+msgstr ""
+
+#: hooks/hooks.php:2580 hooks/hooks.php:2602 
+#: elementor/shortcodes/sc-login-button.php:298 
+#: elementor/shortcodes/sc-login-button.php:317
+msgid "Create account"
+msgstr ""
+
+#: hooks/hooks.php:2600 shortcodes/class-authentication.php:265 
+#: elementor/shortcodes/sc-login-button.php:315
+msgid "Login Now"
+msgstr ""
+
+#: hooks/hooks.php:2611 hooks/hooks.php:2613 hooks/hooks.php:2615 
+#: elementor/shortcodes/sc-registration-button.php:214 
+#: elementor/shortcodes/sc-registration-button.php:216 
+#: elementor/shortcodes/sc-registration-button.php:218
+msgid "Join Now"
+msgstr ""
+
+#: hooks/hooks.php:3261 hooks/hooks.php:3270 hooks/hooks.php:3279 
+#: hooks/hooks.php:3288 hooks/hooks.php:3297 admin/partials/functions.php:187 
+#: admin/partials/functions.php:212
+msgid "Author"
+msgstr ""
+
+#: hooks/hooks.php:3311
+msgid "Sorry! you are restricted to perform this action on demo site."
+msgstr ""
+
+#: hooks/hooks.php:3479
+msgid "You are successfully login. "
+msgstr ""
+
+#: hooks/hooks.php:3485
+msgid "You are successfully login."
+msgstr ""
+
+#: hooks/hooks.php:4006 admin/post-types/employers.php:40 
+#: admin/post-types/employers.php:41
+msgid "Employers"
+msgstr "Gurus"
+
+#: hooks/hooks.php:4008 admin/post-types/freelancer.php:39 
+#: admin/post-types/freelancer.php:40 
+#: elementor/shortcodes/wt-top-freelancer-v2.php:99 
+#: elementor/shortcodes/wt-top-freelancer.php:108
+msgid "Freelancers"
+msgstr "Gigsters"
+
+#: hooks/hooks.php:4022 hooks/hooks.php:4037 hooks/hooks.php:4047 
+#: hooks/hooks.php:4067 hooks/hooks.php:4077 hooks/hooks.php:4084 
+#: hooks/hooks.php:4088 admin/post-types/projects.php:412 
+#: elementor/shortcodes/wt-micro-services.php:178 
+#: elementor/shortcodes/wt-news-articles.php:129 
+#: elementor/shortcodes/wt-working-process.php:134 
+#: elementor/shortcodes/wt-working-process.php:147
+msgid "Yes"
+msgstr ""
+
+#: hooks/hooks.php:4022 hooks/hooks.php:4035 hooks/hooks.php:4047 
+#: hooks/hooks.php:4079 admin/post-types/projects.php:414 
+#: elementor/shortcodes/wt-micro-services.php:179 
+#: elementor/shortcodes/wt-news-articles.php:130 
+#: elementor/shortcodes/wt-working-process.php:148
+msgid "No"
+msgstr ""
+
+#: hooks/hooks.php:4372 hooks/hooks.php:4373
+msgid "First Name field is required."
+msgstr ""
+
+#: hooks/hooks.php:4374
+msgid "Email field is required"
+msgstr ""
+
+#: hooks/hooks.php:4641 admin/post-types/dispute.php:148 
+#: admin/post-types/employers.php:42 admin/post-types/report.php:106 
+#: elementor/shortcodes/sc-latest-posted-jobs.php:251
+msgid "Employer"
+msgstr "Guru"
+
+#: includes/class-system-activator.php:61 
+#: includes/class-system-activator.php:62 
+#: elementor/shortcodes/wt-authentication.php:37
+msgid "Authentication"
+msgstr ""
+
+#: shortcodes/class-authentication.php:66
+msgid "Registration is disabled by administrator."
+msgstr ""
+
+#: shortcodes/class-authentication.php:122
+msgid "You have not any privilege to view this page."
+msgstr ""
+
+#: shortcodes/class-authentication.php:125
+msgid "Hello"
+msgstr ""
+
+#: shortcodes/class-authentication.php:125
+msgid "not"
+msgstr ""
+
+#: shortcodes/class-authentication.php:125
+msgid "Sign out"
+msgstr ""
+
+#: shortcodes/class-authentication.php:127
+msgid "You can view your dashboard by clicking below link"
+msgstr ""
+
+#: shortcodes/class-authentication.php:265
+msgid "Already Have an Account?"
+msgstr ""
+
+#: shortcodes/class-authentication.php:276 
+#: shortcodes/class-authentication.php:319
+msgid "Login and registration is disabled by administrator."
+msgstr ""
+
+#: social-connect/class-facebook.php:154
+msgid "Please wait while you are redirecting to facebook for authorizations."
+msgstr ""
+
+#: social-connect/class-google.php:29
+msgid "Google Connect"
+msgstr ""
+
+#: social-connect/class-google.php:108
+msgid "Please wait while you are redirecting to google+ for authorizations."
+msgstr ""
+
+#: social-connect/class-linkedin.php:44
+msgid "Linkedin Connect"
+msgstr ""
+
+#: social-connect/class-linkedin.php:159
+msgid "Please wait while you are redirecting to linkedin for authorizations."
+msgstr ""
+
+#. Base ID
+#: widgets/class-jobs-by-locations.php:30
+msgid "Jobs by Locations | Workreap"
+msgstr "Jobs by Locations | Workreap"
+
+#: widgets/class-jobs-by-locations.php:33
+msgid "Workreap Jobs by Locations"
+msgstr "Workreap Jobs by Locations"
+
+#: widgets/class-jobs-by-locations.php:84
+msgid "Jobs In"
+msgstr "Jobs In"
+
+#: widgets/class-jobs-by-locations.php:90
+msgid "View All"
+msgstr ""
+
+#: widgets/class-jobs-by-locations.php:104
+msgid "Search By Location"
+msgstr ""
+
+#: widgets/class-jobs-by-locations.php:110 widgets/class-links.php:212 
+#: widgets/class-recent-jobs.php:122 widgets/class-recent-posts.php:125 
+#: widgets/class-tweets-widget.php:211
+msgid "Title:"
+msgstr ""
+
+#: widgets/class-jobs-by-locations.php:114
+msgid "Select locations:"
+msgstr ""
+
+#: widgets/class-jobs-by-locations.php:132
+msgid "Add \"View All\" button link here, or leave it empty to hide button:"
+msgstr ""
+
+#. Base ID
+#: widgets/class-links.php:22
+msgid "Links | Workreap"
+msgstr ""
+
+#: widgets/class-links.php:24
+msgid "Show links."
+msgstr ""
+
+#: widgets/class-links.php:62 widgets/class-tweets-widget.php:61
+msgid "Sorry! No tweets found"
+msgstr ""
+
+#: widgets/class-links.php:151 widgets/class-tweets-widget.php:150
+#, php-format
+msgid "%d seconds ago"
+msgstr ""
+
+#: widgets/class-links.php:154 widgets/class-tweets-widget.php:153
+#, php-format
+msgid "About a Minute Ago"
+msgid_plural "%d Minutes Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/class-links.php:157 widgets/class-links.php:160 
+#: widgets/class-tweets-widget.php:156 widgets/class-tweets-widget.php:159
+#, php-format
+msgid "About an Hour Ago"
+msgid_plural "%d Hours Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/class-links.php:163 widgets/class-tweets-widget.php:162
+#, php-format
+msgid "About a Day Ago"
+msgid_plural "%d Days Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/class-links.php:166 widgets/class-tweets-widget.php:165
+#, php-format
+msgid "About a Week Ago"
+msgid_plural "%d Weeks Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/class-links.php:169 widgets/class-tweets-widget.php:168
+#, php-format
+msgid "About a Month Ago"
+msgid_plural "%d Months Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/class-links.php:172 widgets/class-tweets-widget.php:171
+#, php-format
+msgid "About a year Ago"
+msgid_plural "%d years Ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/class-links.php:187 widgets/class-links.php:191 
+#: widgets/class-tweets-widget.php:186 widgets/class-tweets-widget.php:190
+msgid "No Tweets Found"
+msgstr ""
+
+#: widgets/class-links.php:194 widgets/class-tweets-widget.php:193
+msgid "Some error occur, please try again later."
+msgstr ""
+
+#: widgets/class-links.php:206 widgets/class-tweets-widget.php:205
+msgid "Tweets"
+msgstr ""
+
+#: widgets/class-links.php:218 widgets/class-tweets-widget.php:217
+msgid "Username:"
+msgstr ""
+
+#: widgets/class-links.php:224 widgets/class-tweets-widget.php:223
+msgid "Number of Tweets:"
+msgstr ""
+
+#. Base ID
+#: widgets/class-recent-jobs.php:30
+msgid "Recent Jobs | Workreap"
+msgstr "Recent Jobs | Workreap"
+
+#: widgets/class-recent-jobs.php:33
+msgid "Workreap Recent Jobs"
+msgstr "Workreap Recent Jobs"
+
+#: widgets/class-recent-jobs.php:88
+msgid "Avatar"
+msgstr ""
+
+#: widgets/class-recent-jobs.php:118
+msgid "Recent Posted Jobs"
+msgstr "Recent Posted Jobs"
+
+#: widgets/class-recent-jobs.php:126 widgets/class-recent-posts.php:129
+msgid "Number of posts to show:"
+msgstr ""
+
+#. Base ID
+#: widgets/class-recent-posts.php:30
+msgid "Popular posts | Workreap"
+msgstr ""
+
+#: widgets/class-recent-posts.php:33
+msgid "Workreap Popular posts"
+msgstr ""
+
+#: widgets/class-recent-posts.php:121
+msgid "Popular Articles"
+msgstr ""
+
+#. Base ID
+#: widgets/class-tweets-widget.php:22
+msgid "Tweets | Workreap"
+msgstr ""
+
+#: widgets/class-tweets-widget.php:24
+msgid "Show latest tweets."
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:20 
+#: admin/partials/class-system-earnings-listing.php:21 
+#: admin/partials/class-system-earnings.php:35 
+#: admin/partials/class-system-earnings.php:36 
+#: admin/partials/class-system-earnings.php:55 
+#: admin/partials/class-system-earnings.php:91
+msgid "Earnings"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:115
+msgid "No Earnings avaliable."
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:139 
+#: admin/partials/class-system-payout-listing.php:160
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:191 
+#: admin/partials/class-system-payout-listing.php:197
+msgid "User Name"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:192
+msgid "Project/Service"
+msgstr "Project/Gig"
+
+#: admin/partials/class-system-earnings-listing.php:193 
+#: elementor/shortcodes/sc-latest-posted-jobs.php:135 
+#: elementor/shortcodes/wt-news-articles.php:160
+msgid "Order"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:194 
+#: admin/partials/class-system-payout-listing.php:198 
+#: admin/partials/class-system-payout-listing.php:345 
+#: admin/post-types/proposals.php:85
+msgid "Amount"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:195
+msgid "Freelancer / Employer Share"
+msgstr "Gigster / Guru Share"
+
+#: admin/partials/class-system-earnings-listing.php:196
+msgid "Admin Share"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:197 
+#: admin/partials/class-system-payout-listing.php:201 
+#: admin/partials/class-system-payout-listing.php:348 
+#: admin/post-types/projects.php:395 admin/post-types/proposals.php:86
+msgid "Status"
+msgstr ""
+
+#: admin/partials/class-system-earnings.php:64
+msgid "Search By ID"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:22
+msgid "Payout"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:23 
+#: admin/partials/class-system-payout-listing.php:301 
+#: admin/partials/class-system-payouts.php:35 
+#: admin/partials/class-system-payouts.php:36 
+#: admin/partials/class-system-payouts.php:62 
+#: admin/partials/class-system-payouts.php:112
+msgid "Payouts"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:133
+msgid "No Payouts avaliable."
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:199
+msgid "Payment Method"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:200
+msgid "Processing Date"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:302
+msgid "Payout history of the month"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:311
+msgid "This is a computer generated payout slip"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:343
+msgid "ID"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:344
+msgid "Name"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:346
+msgid "Method"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:347
+msgid "Details"
+msgstr ""
+
+#: admin/partials/class-system-payouts.php:71
+msgid "Select month"
+msgstr ""
+
+#: admin/partials/class-system-payouts.php:79
+msgid "Select year"
+msgstr ""
+
+#: admin/partials/class-system-payouts.php:86 
+#: admin/post-types/addons-services.php:63
+msgid "Download"
+msgstr ""
+
+#: admin/partials/functions.php:23
+msgid "Workreap"
+msgstr ""
+
+#: admin/partials/functions.php:61 admin/partials/functions.php:62 
+#: admin/partials/functions.php:63
+msgid "Packages/Products"
+msgstr ""
+
+#: admin/partials/functions.php:64
+msgid "Add Package/Product"
+msgstr ""
+
+#: admin/partials/functions.php:65
+msgid "Add New Package/Product"
+msgstr ""
+
+#: admin/partials/functions.php:66 admin/partials/functions.php:67
+msgid "Edit Package/Product"
+msgstr ""
+
+#: admin/partials/functions.php:68
+msgid "New Package/Product"
+msgstr ""
+
+#: admin/partials/functions.php:69 admin/partials/functions.php:70
+msgid "View Package/Product"
+msgstr ""
+
+#: admin/partials/functions.php:71
+msgid "Search Packages/Product"
+msgstr ""
+
+#: admin/partials/functions.php:72
+msgid "No Packages/Products found"
+msgstr ""
+
+#: admin/partials/functions.php:73
+msgid "No Packages/Products found in trash"
+msgstr ""
+
+#: admin/partials/functions.php:74
+msgid "Parent Package/Product"
+msgstr ""
+
+#: admin/partials/functions.php:78
+msgid "This is where you can add new tours to your store."
+msgstr ""
+
+#: admin/partials/functions.php:333
+msgid "Share on linkedin"
+msgstr ""
+
+#: admin/partials/functions.php:336
+msgid "Share on Facebook"
+msgstr ""
+
+#: admin/partials/functions.php:341
+msgid "Share on Twitter"
+msgstr ""
+
+#: admin/partials/functions.php:346
+msgid "Share on Pinterest"
+msgstr ""
+
+#: admin/partials/functions.php:363 admin/partials/functions.php:364
+msgid "Import User"
+msgstr ""
+
+#: admin/partials/functions.php:392 admin/partials/functions.php:466
+msgid "User Imported Successfully"
+msgstr ""
+
+#: admin/partials/functions.php:397
+msgid "Import Employers/Freelancers"
+msgstr "Import Gurus/Gigsters"
+
+#: admin/partials/functions.php:400 admin/partials/functions.php:402 
+#: admin/partials/functions.php:410
+msgid "Import Users"
+msgstr ""
+
+#: admin/partials/functions.php:404
+msgid "Import Dummy"
+msgstr ""
+
+#: admin/partials/functions.php:414
+msgid "Choose File"
+msgstr ""
+
+#: admin/partials/functions.php:417
+msgid "Import From File"
+msgstr ""
+
+#: admin/partials/functions.php:487
+msgid "Settings updated"
+msgstr ""
+
+#: admin/partials/functions.php:650
+msgid "Dispute Resolved"
+msgstr ""
+
+#: admin/partials/functions.php:717
+msgid "Settings have been updated"
+msgstr ""
+
+#: admin/post-types/addons-services.php:33 
+#: admin/post-types/addons-services.php:149 
+#: admin/post-types/addons-services.php:150 
+#: admin/post-types/addons-services.php:151
+msgid "Addons Services"
+msgstr "Addons Gigs"
+
+#: admin/post-types/addons-services.php:44
+msgid "Downloadable Services"
+msgstr "Downloadable Gigs"
+
+#: admin/post-types/addons-services.php:66
+msgid "No files to download"
+msgstr ""
+
+#: admin/post-types/addons-services.php:126
+msgid "No addon services added yet"
+msgstr "No addon gigs added yet"
+
+#: admin/post-types/addons-services.php:152
+msgid "Add Addons Service"
+msgstr "Add Addons Gig"
+
+#: admin/post-types/addons-services.php:153
+msgid "Add New Addons Service"
+msgstr "Add New Addons Gig"
+
+#: admin/post-types/addons-services.php:154 admin/post-types/dispute.php:43 
+#: admin/post-types/employers.php:45 admin/post-types/freelancer.php:44 
+#: admin/post-types/micro-services.php:45 admin/post-types/milstone.php:51 
+#: admin/post-types/portfolio.php:42 admin/post-types/projects.php:45 
+#: admin/post-types/proposals.php:43 admin/post-types/report.php:43 
+#: admin/post-types/reviews.php:45 admin/post-types/services-orders.php:46
+msgid "Edit"
+msgstr ""
+
+#: admin/post-types/addons-services.php:155
+msgid "Edit Addons Service"
+msgstr "Edit Addons Gig"
+
+#: admin/post-types/addons-services.php:156
+msgid "New Addons Service"
+msgstr "New Addons Gig"
+
+#: admin/post-types/addons-services.php:157 
+#: admin/post-types/addons-services.php:158
+msgid "View Addons Service"
+msgstr "View Addons Gig"
+
+#: admin/post-types/addons-services.php:159
+msgid "Search Addons Service"
+msgstr "Search Addons Gig"
+
+#: admin/post-types/addons-services.php:160
+msgid "No Addons Service found"
+msgstr "No Addons Gig found"
+
+#: admin/post-types/addons-services.php:161
+msgid "No Addons Service found in trash"
+msgstr "No Addons Gig found in trash"
+
+#: admin/post-types/addons-services.php:162
+msgid "Parent Addons Service"
+msgstr "Parent Addons Gig"
+
+#: admin/post-types/addons-services.php:166 
+#: admin/post-types/micro-services.php:57
+msgid "This is where you can add new Micro Service"
+msgstr "This is where you can add new Micro Gig"
+
+#: admin/post-types/dispute.php:38 admin/post-types/dispute.php:39 
+#: admin/post-types/dispute.php:40
+msgid "Disputes"
+msgstr ""
+
+#: admin/post-types/dispute.php:41
+msgid "Add Dispute"
+msgstr ""
+
+#: admin/post-types/dispute.php:42
+msgid "Add New Dispute"
+msgstr ""
+
+#: admin/post-types/dispute.php:44
+msgid "Edit Dispute"
+msgstr ""
+
+#: admin/post-types/dispute.php:45
+msgid "New Dispute"
+msgstr ""
+
+#: admin/post-types/dispute.php:46 admin/post-types/dispute.php:47
+msgid "View Dispute"
+msgstr ""
+
+#: admin/post-types/dispute.php:48
+msgid "Search Dispute"
+msgstr ""
+
+#: admin/post-types/dispute.php:49
+msgid "No Dispute found"
+msgstr ""
+
+#: admin/post-types/dispute.php:50
+msgid "No Dispute found in trash"
+msgstr ""
+
+#: admin/post-types/dispute.php:51
+msgid "Parent Dispute"
+msgstr ""
+
+#: admin/post-types/dispute.php:55
+msgid "This is where you can add new Dispute "
+msgstr ""
+
+#: admin/post-types/dispute.php:85
+msgid "Linked Details"
+msgstr ""
+
+#: admin/post-types/dispute.php:101 admin/post-types/projects.php:48 
+#: admin/post-types/projects.php:49
+msgid "View Project"
+msgstr ""
+
+#: admin/post-types/dispute.php:109
+msgid "View Service"
+msgstr "View Gig"
+
+#: admin/post-types/dispute.php:125
+msgid "View Freelancer Profile"
+msgstr "View Gigster Profile"
+
+#: admin/post-types/dispute.php:130
+msgid "View Employer Profile"
+msgstr "View Guru Profile"
+
+#: admin/post-types/dispute.php:136 admin/post-types/dispute.php:143
+msgid "Resolve Dispute"
+msgstr ""
+
+#: admin/post-types/dispute.php:145
+msgid ""
+"Please select one of the user who is winning party. An email will be sent to "
+"both parties with your message"
+msgstr ""
+
+#: admin/post-types/dispute.php:155
+msgid "Write your message for freelancer"
+msgstr "Write your message for gigster"
+
+#: admin/post-types/dispute.php:159
+msgid "Write your message for employer"
+msgstr "Write your message for guru"
+
+#: admin/post-types/dispute.php:163
+msgid "Submit"
+msgstr ""
+
+#: admin/post-types/dispute.php:179
+msgid "Project History"
+msgstr ""
+
+#: admin/post-types/dispute.php:228
+msgid "Date"
+msgstr ""
+
+#: admin/post-types/dispute.php:229
+msgid "Attachment"
+msgstr ""
+
+#: admin/post-types/dispute.php:268 admin/post-types/employers.php:136
+msgid "Messages"
+msgstr ""
+
+#: admin/post-types/dispute.php:270
+msgid "Attachment(s)"
+msgstr ""
+
+#: admin/post-types/dispute.php:284 admin/post-types/dispute.php:290
+msgid "No history found."
+msgstr ""
+
+#: admin/post-types/employers.php:43
+msgid "Add Employer"
+msgstr "Add Guru"
+
+#: admin/post-types/employers.php:44
+msgid "Add New Employer"
+msgstr "Add New Guru"
+
+#: admin/post-types/employers.php:46
+msgid "Edit Employer"
+msgstr "Edit Guru"
+
+#: admin/post-types/employers.php:47
+msgid "New Employer"
+msgstr "New Guru"
+
+#: admin/post-types/employers.php:48 admin/post-types/employers.php:49
+msgid "View Employer"
+msgstr "View Guru"
+
+#: admin/post-types/employers.php:50
+msgid "Search Employer"
+msgstr "Search Guru"
+
+#: admin/post-types/employers.php:51
+msgid "No Employer found"
+msgstr "No Guru found"
+
+#: admin/post-types/employers.php:52
+msgid "No Employer found in trash"
+msgstr "No Guru found in trash"
+
+#: admin/post-types/employers.php:53
+msgid "Parent Employers"
+msgstr "Parent Gurus"
+
+#: admin/post-types/employers.php:57
+msgid "This is where you can add new company"
+msgstr ""
+
+#: admin/post-types/employers.php:80 admin/post-types/employers.php:81 
+#: admin/post-types/employers.php:90
+msgid "Department"
+msgstr ""
+
+#: admin/post-types/employers.php:82
+msgid "Search Department"
+msgstr ""
+
+#: admin/post-types/employers.php:83
+msgid "All Department"
+msgstr ""
+
+#: admin/post-types/employers.php:84
+msgid "Parent Department"
+msgstr ""
+
+#: admin/post-types/employers.php:85
+msgid "Parent Department:"
+msgstr ""
+
+#: admin/post-types/employers.php:86
+msgid "Edit Department"
+msgstr ""
+
+#: admin/post-types/employers.php:87
+msgid "Update Department"
+msgstr ""
+
+#: admin/post-types/employers.php:88
+msgid "Add New Department"
+msgstr ""
+
+#: admin/post-types/employers.php:89
+msgid "New Department Name"
+msgstr ""
+
+#: admin/post-types/employers.php:118
+msgid "Chat History"
+msgstr ""
+
+#: admin/post-types/employers.php:187
+msgid "View Profile"
+msgstr ""
+
+#: admin/post-types/employers.php:205 admin/post-types/freelancer.php:185
+msgid "Linked Profile"
+msgstr ""
+
+#: admin/post-types/employers.php:208 admin/post-types/freelancer.php:188
+msgid "Balance History"
+msgstr ""
+
+#: admin/post-types/employers.php:211 admin/post-types/employers.php:227 
+#: admin/post-types/freelancer.php:191 admin/post-types/freelancer.php:207
+msgid "Payouts Settings"
+msgstr ""
+
+#: admin/post-types/employers.php:230 admin/post-types/freelancer.php:210
+msgid "All the earning will be sent to below selected payout method"
+msgstr ""
+
+#: admin/post-types/employers.php:306 admin/post-types/freelancer.php:285
+msgid "Current balance"
+msgstr ""
+
+#: admin/post-types/employers.php:315 admin/post-types/freelancer.php:294
+msgid "Available balance"
+msgstr ""
+
+#: admin/post-types/employers.php:342 admin/post-types/freelancer.php:322
+msgid "View User Profile"
+msgstr ""
+
+#: admin/post-types/employers.php:348 admin/post-types/freelancer.php:328
+msgid "Approve Account"
+msgstr ""
+
+#: admin/post-types/employers.php:354 admin/post-types/freelancer.php:334
+msgid "Disable Account"
+msgstr ""
+
+#: admin/post-types/employers.php:369
+msgid "Jobs Posted"
+msgstr "Jobs Posted"
+
+#: admin/post-types/employers.php:370
+msgid "Followers"
+msgstr ""
+
+#: admin/post-types/freelancer.php:42
+msgid "Add Freelancer"
+msgstr "Add Gigster"
+
+#: admin/post-types/freelancer.php:43
+msgid "Add New Freelancer"
+msgstr "Add New Gigster"
+
+#: admin/post-types/freelancer.php:45
+msgid "Edit Freelancer"
+msgstr "Edit Gigster"
+
+#: admin/post-types/freelancer.php:46
+msgid "New Freelancer"
+msgstr "New Gigster"
+
+#: admin/post-types/freelancer.php:47 admin/post-types/freelancer.php:48
+msgid "View Freelancer"
+msgstr "View Gigster"
+
+#: admin/post-types/freelancer.php:49
+msgid "Search Freelancer"
+msgstr "Search Gigster"
+
+#: admin/post-types/freelancer.php:50
+msgid "No Freelancer found"
+msgstr "No Gigster found"
+
+#: admin/post-types/freelancer.php:51
+msgid "No Freelancer found in trash"
+msgstr "No Gigster found in trash"
+
+#: admin/post-types/freelancer.php:52
+msgid "Parent Freelancers"
+msgstr "Parent Gigsters"
+
+#: admin/post-types/freelancer.php:56
+msgid "This is where you can add new freelancer"
+msgstr "This is where you can add new gigster"
+
+#: admin/post-types/freelancer.php:79 admin/post-types/freelancer.php:80 
+#: admin/post-types/freelancer.php:89
+msgid "Badges"
+msgstr ""
+
+#: admin/post-types/freelancer.php:81
+msgid "Search Badge"
+msgstr ""
+
+#: admin/post-types/freelancer.php:82
+msgid "All Badges"
+msgstr ""
+
+#: admin/post-types/freelancer.php:83
+msgid "Parent Badges"
+msgstr ""
+
+#: admin/post-types/freelancer.php:84
+msgid "Parent Badges:"
+msgstr ""
+
+#: admin/post-types/freelancer.php:85
+msgid "Edit Badge"
+msgstr ""
+
+#: admin/post-types/freelancer.php:86
+msgid "Update Badge"
+msgstr ""
+
+#: admin/post-types/freelancer.php:87
+msgid "Add New Badge"
+msgstr ""
+
+#: admin/post-types/freelancer.php:88
+msgid "New Badge Name"
+msgstr ""
+
+#: admin/post-types/freelancer.php:117 admin/post-types/freelancer.php:118 
+#: admin/post-types/freelancer.php:127
+msgid "Specialization"
+msgstr ""
+
+#: admin/post-types/freelancer.php:119
+msgid "Search Specialization"
+msgstr ""
+
+#: admin/post-types/freelancer.php:120
+msgid "All Specialization"
+msgstr ""
+
+#: admin/post-types/freelancer.php:121
+msgid "Parent Specialization"
+msgstr ""
+
+#: admin/post-types/freelancer.php:122
+msgid "Parent Specialization:"
+msgstr ""
+
+#: admin/post-types/freelancer.php:123
+msgid "Edit Specialization"
+msgstr ""
+
+#: admin/post-types/freelancer.php:124
+msgid "Update Specialization"
+msgstr ""
+
+#: admin/post-types/freelancer.php:125
+msgid "Add New Specialization"
+msgstr ""
+
+#: admin/post-types/freelancer.php:126
+msgid "New Specialization Name"
+msgstr ""
+
+#: admin/post-types/freelancer.php:147 admin/post-types/freelancer.php:148 
+#: admin/post-types/freelancer.php:157
+msgid "Industrial experience"
+msgstr ""
+
+#: admin/post-types/freelancer.php:149
+msgid "Search Industrial experience"
+msgstr ""
+
+#: admin/post-types/freelancer.php:150
+msgid "All Industrial experience"
+msgstr ""
+
+#: admin/post-types/freelancer.php:151
+msgid "Parent Industrial experience"
+msgstr ""
+
+#: admin/post-types/freelancer.php:152
+msgid "Parent Industrial experience:"
+msgstr ""
+
+#: admin/post-types/freelancer.php:153
+msgid "Edit Industrial experience"
+msgstr ""
+
+#: admin/post-types/freelancer.php:154
+msgid "Update Industrial experience"
+msgstr ""
+
+#: admin/post-types/freelancer.php:155
+msgid "Add New Industrial experience"
+msgstr ""
+
+#: admin/post-types/freelancer.php:156
+msgid "New Industrial experience Name"
+msgstr ""
+
+#: admin/post-types/freelancer.php:349
+msgid "Charge Per hour"
+msgstr ""
+
+#: admin/post-types/freelancer.php:350
+msgid "Ongoing Projects/Services"
+msgstr "Ongoing Projects/Gigs"
+
+#: admin/post-types/freelancer.php:351
+msgid "Completed Projects/Services"
+msgstr "Completed Projects/Gigs"
+
+#: admin/post-types/freelancer.php:352
+msgid "Cancelled Projects/Services"
+msgstr "Cancelled Projects/Gigs"
+
+#: admin/post-types/freelancer.php:353
+msgid "Rating"
+msgstr ""
+
+#: admin/post-types/freelancer.php:354
+msgid "Total Earning"
+msgstr ""
+
+#: admin/post-types/micro-services.php:40 
+#: admin/post-types/micro-services.php:41 
+#: admin/post-types/micro-services.php:42 
+#: elementor/shortcodes/wt-micro-services.php:37
+msgid "Micro Services"
+msgstr "Micro Gigs"
+
+#: admin/post-types/micro-services.php:43
+msgid "Add Micro Service"
+msgstr "Add Micro Gig"
+
+#: admin/post-types/micro-services.php:44
+msgid "Add New Micro Service"
+msgstr "Add New Micro Gig"
+
+#: admin/post-types/micro-services.php:46
+msgid "Edit Micro Service"
+msgstr "Edit Micro Gig"
+
+#: admin/post-types/micro-services.php:47
+msgid "New Micro Service"
+msgstr "New Micro Gig"
+
+#: admin/post-types/micro-services.php:48 
+#: admin/post-types/micro-services.php:49
+msgid "View Micro Service"
+msgstr "View Micro Gig"
+
+#: admin/post-types/micro-services.php:50
+msgid "Search Micro Service"
+msgstr "Search Micro Gig"
+
+#: admin/post-types/micro-services.php:51
+msgid "No Micro Service found"
+msgstr "No Micro Gig found"
+
+#: admin/post-types/micro-services.php:52
+msgid "No Micro Service found in trash"
+msgstr "No Micro Gig found in trash"
+
+#: admin/post-types/micro-services.php:53
+msgid "Parent Micro Service"
+msgstr "Parent Micro Gig"
+
+#: admin/post-types/micro-services.php:72 
+#: admin/post-types/micro-services.php:73 
+#: admin/post-types/micro-services.php:82
+msgid "Delivery Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:74
+msgid "Search Delivery Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:75
+msgid "All Delivery Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:76
+msgid "Parent Delivery Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:77
+msgid "Parent Delivery Time:"
+msgstr ""
+
+#: admin/post-types/micro-services.php:78
+msgid "Edit Delivery Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:79
+msgid "Update Delivery Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:80
+msgid "Add New Delivery Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:81
+msgid "New Delivery Time Name"
+msgstr ""
+
+#: admin/post-types/micro-services.php:99 
+#: admin/post-types/micro-services.php:100 
+#: admin/post-types/micro-services.php:109
+msgid "Response Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:101
+msgid "Search Response Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:102
+msgid "All Response Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:103
+msgid "Parent Response Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:104
+msgid "Parent Response Time:"
+msgstr ""
+
+#: admin/post-types/micro-services.php:105
+msgid "Edit Response Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:106
+msgid "Update Response Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:107
+msgid "Add New Response Time"
+msgstr ""
+
+#: admin/post-types/micro-services.php:108
+msgid "New Response Time Name"
+msgstr ""
+
+#: admin/post-types/micro-services.php:137 
+#: admin/post-types/micro-services.php:155
+msgid "Approve Service"
+msgstr "Approve Gig"
+
+#: admin/post-types/micro-services.php:169
+msgid "Downloadable"
+msgstr ""
+
+#: admin/post-types/milstone.php:46 admin/post-types/milstone.php:47 
+#: admin/post-types/milstone.php:48
+msgid "Milestone"
+msgstr ""
+
+#: admin/post-types/milstone.php:49
+msgid "Add Milestone"
+msgstr ""
+
+#: admin/post-types/milstone.php:50
+msgid "Add New Milestone"
+msgstr ""
+
+#: admin/post-types/milstone.php:52
+msgid "Edit Milestone"
+msgstr ""
+
+#: admin/post-types/milstone.php:53
+msgid "New Milestone"
+msgstr ""
+
+#: admin/post-types/milstone.php:54 admin/post-types/milstone.php:55
+msgid "View Milestone"
+msgstr ""
+
+#: admin/post-types/milstone.php:56
+msgid "Search Milestone"
+msgstr ""
+
+#: admin/post-types/milstone.php:57
+msgid "No Milestone found"
+msgstr ""
+
+#: admin/post-types/milstone.php:58
+msgid "No Milestone found in trash"
+msgstr ""
+
+#: admin/post-types/milstone.php:59
+msgid "Parent Milestone"
+msgstr ""
+
+#: admin/post-types/milstone.php:63
+msgid "This is where you can add new Milestone"
+msgstr ""
+
+#: admin/post-types/milstone.php:85
+msgid "Project Title"
+msgstr ""
+
+#: admin/post-types/portfolio.php:37 admin/post-types/portfolio.php:38 
+#: admin/post-types/portfolio.php:39
+msgid "Portfolios"
+msgstr ""
+
+#: admin/post-types/portfolio.php:40
+msgid "Add Portfolio"
+msgstr ""
+
+#: admin/post-types/portfolio.php:41
+msgid "Add New Portfolio"
+msgstr ""
+
+#: admin/post-types/portfolio.php:43
+msgid "Edit Portfolio"
+msgstr ""
+
+#: admin/post-types/portfolio.php:44
+msgid "New Portfolio"
+msgstr ""
+
+#: admin/post-types/portfolio.php:45 admin/post-types/portfolio.php:46
+msgid "View Portfolio"
+msgstr ""
+
+#: admin/post-types/portfolio.php:47
+msgid "Search Portfolio"
+msgstr ""
+
+#: admin/post-types/portfolio.php:48
+msgid "No Portfolio found"
+msgstr ""
+
+#: admin/post-types/portfolio.php:49
+msgid "No Portfolio found in trash"
+msgstr ""
+
+#: admin/post-types/portfolio.php:50
+msgid "Parent Portfolio"
+msgstr ""
+
+#: admin/post-types/portfolio.php:54
+msgid "This is where you can add new Portfolio"
+msgstr ""
+
+#: admin/post-types/portfolio.php:69 admin/post-types/portfolio.php:79 
+#: admin/post-types/projects.php:90 
+#: elementor/shortcodes/wt-news-articles.php:148
+msgid "Categories"
+msgstr ""
+
+#: admin/post-types/portfolio.php:70 admin/post-types/projects.php:81 
+#: elementor/shortcodes/sc-categories-v2.php:228 
+#: elementor/shortcodes/sc-categories-v3.php:238 
+#: elementor/shortcodes/sc-categories.php:204 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:227 
+#: elementor/shortcodes/wt-categories-slider.php:170
+msgid "Category"
+msgstr ""
+
+#: admin/post-types/portfolio.php:71 admin/post-types/projects.php:82
+msgid "Search Category"
+msgstr ""
+
+#: admin/post-types/portfolio.php:72 admin/post-types/projects.php:83
+msgid "All Category"
+msgstr ""
+
+#: admin/post-types/portfolio.php:73 admin/post-types/projects.php:84
+msgid "Parent Category"
+msgstr ""
+
+#: admin/post-types/portfolio.php:74 admin/post-types/projects.php:85
+msgid "Parent Category:"
+msgstr ""
+
+#: admin/post-types/portfolio.php:75 admin/post-types/projects.php:86
+msgid "Edit Category"
+msgstr ""
+
+#: admin/post-types/portfolio.php:76 admin/post-types/projects.php:87
+msgid "Update Category"
+msgstr ""
+
+#: admin/post-types/portfolio.php:77 admin/post-types/projects.php:88
+msgid "Add New Category"
+msgstr ""
+
+#: admin/post-types/portfolio.php:78 admin/post-types/projects.php:89
+msgid "New Category Name"
+msgstr ""
+
+#: admin/post-types/portfolio.php:95 admin/post-types/portfolio.php:105
+msgid "Tags"
+msgstr ""
+
+#: admin/post-types/portfolio.php:96
+msgid "Tag"
+msgstr ""
+
+#: admin/post-types/portfolio.php:97
+msgid "Search Tag"
+msgstr ""
+
+#: admin/post-types/portfolio.php:98
+msgid "All Tag"
+msgstr ""
+
+#: admin/post-types/portfolio.php:99
+msgid "Parent Tag"
+msgstr ""
+
+#: admin/post-types/portfolio.php:100
+msgid "Parent Tag:"
+msgstr ""
+
+#: admin/post-types/portfolio.php:101
+msgid "Edit Tag"
+msgstr ""
+
+#: admin/post-types/portfolio.php:102
+msgid "Update Tag"
+msgstr ""
+
+#: admin/post-types/portfolio.php:103
+msgid "Add New Tag"
+msgstr ""
+
+#: admin/post-types/portfolio.php:104
+msgid "New Tag Name"
+msgstr ""
+
+#: admin/post-types/projects.php:40 admin/post-types/projects.php:41
+msgid "Projects"
+msgstr ""
+
+#: admin/post-types/projects.php:42 admin/post-types/proposals.php:87 
+#: admin/post-types/report.php:108 admin/post-types/reviews.php:170
+msgid "Project"
+msgstr ""
+
+#: admin/post-types/projects.php:43
+msgid "Add Project"
+msgstr ""
+
+#: admin/post-types/projects.php:44
+msgid "Add New Project"
+msgstr ""
+
+#: admin/post-types/projects.php:46
+msgid "Edit Project"
+msgstr ""
+
+#: admin/post-types/projects.php:47
+msgid "New Project"
+msgstr ""
+
+#: admin/post-types/projects.php:50
+msgid "Search Project"
+msgstr ""
+
+#: admin/post-types/projects.php:51
+msgid "No Project found"
+msgstr ""
+
+#: admin/post-types/projects.php:52
+msgid "No Project found in trash"
+msgstr ""
+
+#: admin/post-types/projects.php:53
+msgid "Parent Projects"
+msgstr ""
+
+#: admin/post-types/projects.php:57
+msgid "This is where you can add new projects "
+msgstr ""
+
+#: admin/post-types/projects.php:80
+msgid "Project Categories"
+msgstr ""
+
+#: admin/post-types/projects.php:111 admin/post-types/projects.php:121 
+#: elementor/shortcodes/wt-by-skills-location.php:122 
+#: elementor/shortcodes/wt-by-skills.php:109
+msgid "Skills"
+msgstr ""
+
+#: admin/post-types/projects.php:112
+msgid "Skill"
+msgstr ""
+
+#: admin/post-types/projects.php:113
+msgid "Search Skill"
+msgstr ""
+
+#: admin/post-types/projects.php:114
+msgid "All Skill"
+msgstr ""
+
+#: admin/post-types/projects.php:115
+msgid "Parent Skill"
+msgstr ""
+
+#: admin/post-types/projects.php:116
+msgid "Parent Skill:"
+msgstr ""
+
+#: admin/post-types/projects.php:117
+msgid "Edit Skill"
+msgstr ""
+
+#: admin/post-types/projects.php:118
+msgid "Update Skill"
+msgstr ""
+
+#: admin/post-types/projects.php:119
+msgid "Add New Skill"
+msgstr ""
+
+#: admin/post-types/projects.php:120
+msgid "New Skill Name"
+msgstr ""
+
+#: admin/post-types/projects.php:144 admin/post-types/projects.php:154
+msgid "Locations"
+msgstr ""
+
+#: admin/post-types/projects.php:145 
+#: elementor/shortcodes/wt-by-skills-location.php:112
+msgid "Location"
+msgstr ""
+
+#: admin/post-types/projects.php:146
+msgid "Search Location"
+msgstr ""
+
+#: admin/post-types/projects.php:147
+msgid "All Location"
+msgstr ""
+
+#: admin/post-types/projects.php:148
+msgid "Parent Location"
+msgstr ""
+
+#: admin/post-types/projects.php:149
+msgid "Parent Location:"
+msgstr ""
+
+#: admin/post-types/projects.php:150
+msgid "Edit Location"
+msgstr ""
+
+#: admin/post-types/projects.php:151
+msgid "Update Location"
+msgstr ""
+
+#: admin/post-types/projects.php:152
+msgid "Add New Location"
+msgstr ""
+
+#: admin/post-types/projects.php:153
+msgid "New Location Name"
+msgstr ""
+
+#: admin/post-types/projects.php:176 admin/post-types/projects.php:186
+msgid "Languages"
+msgstr ""
+
+#: admin/post-types/projects.php:177
+msgid "Language"
+msgstr ""
+
+#: admin/post-types/projects.php:178
+msgid "Search Language"
+msgstr ""
+
+#: admin/post-types/projects.php:179
+msgid "All Language"
+msgstr ""
+
+#: admin/post-types/projects.php:180
+msgid "Parent Language"
+msgstr ""
+
+#: admin/post-types/projects.php:181
+msgid "Parent Language:"
+msgstr ""
+
+#: admin/post-types/projects.php:182
+msgid "Edit Language"
+msgstr ""
+
+#: admin/post-types/projects.php:183
+msgid "Update Language"
+msgstr ""
+
+#: admin/post-types/projects.php:184
+msgid "Add New Language"
+msgstr ""
+
+#: admin/post-types/projects.php:185
+msgid "New Language Name"
+msgstr ""
+
+#: admin/post-types/projects.php:208 admin/post-types/projects.php:218
+msgid "Project levels"
+msgstr ""
+
+#: admin/post-types/projects.php:209
+msgid "Project level"
+msgstr ""
+
+#: admin/post-types/projects.php:210
+msgid "Search Project level"
+msgstr ""
+
+#: admin/post-types/projects.php:211
+msgid "All Project level"
+msgstr ""
+
+#: admin/post-types/projects.php:212
+msgid "Parent Project level"
+msgstr ""
+
+#: admin/post-types/projects.php:213
+msgid "Parent Project level:"
+msgstr ""
+
+#: admin/post-types/projects.php:214
+msgid "Edit Project level"
+msgstr ""
+
+#: admin/post-types/projects.php:215
+msgid "Update Project level"
+msgstr ""
+
+#: admin/post-types/projects.php:216
+msgid "Add New Project level"
+msgstr ""
+
+#: admin/post-types/projects.php:217
+msgid "New Project level Name"
+msgstr ""
+
+#: admin/post-types/projects.php:241 admin/post-types/projects.php:242 
+#: admin/post-types/projects.php:251
+msgid "Project Experience"
+msgstr ""
+
+#: admin/post-types/projects.php:243
+msgid "Search Project Experience"
+msgstr ""
+
+#: admin/post-types/projects.php:244
+msgid "All Project Experience"
+msgstr ""
+
+#: admin/post-types/projects.php:245
+msgid "Parent Project Experience"
+msgstr ""
+
+#: admin/post-types/projects.php:246
+msgid "Parent Project Experience:"
+msgstr ""
+
+#: admin/post-types/projects.php:247
+msgid "Edit Project Experience"
+msgstr ""
+
+#: admin/post-types/projects.php:248
+msgid "Update Project Experience"
+msgstr ""
+
+#: admin/post-types/projects.php:249
+msgid "Add New Project Experience"
+msgstr ""
+
+#: admin/post-types/projects.php:250
+msgid "New Project Experience Name"
+msgstr ""
+
+#: admin/post-types/projects.php:268 admin/post-types/projects.php:278
+msgid "Project duration"
+msgstr ""
+
+#: admin/post-types/projects.php:269
+msgid "Project Duration"
+msgstr ""
+
+#: admin/post-types/projects.php:270
+msgid "Search Project Duration"
+msgstr ""
+
+#: admin/post-types/projects.php:271
+msgid "All Project Duration"
+msgstr ""
+
+#: admin/post-types/projects.php:272
+msgid "Parent Project Duration"
+msgstr ""
+
+#: admin/post-types/projects.php:273
+msgid "Parent Project Duration:"
+msgstr ""
+
+#: admin/post-types/projects.php:274
+msgid "Edit Project Duration"
+msgstr ""
+
+#: admin/post-types/projects.php:275
+msgid "Update Project Duration"
+msgstr ""
+
+#: admin/post-types/projects.php:276
+msgid "Add New Project Duration"
+msgstr ""
+
+#: admin/post-types/projects.php:277
+msgid "New Project Duration Name"
+msgstr ""
+
+#: admin/post-types/projects.php:294 admin/post-types/projects.php:295 
+#: admin/post-types/projects.php:304
+msgid "Freelancer English Level"
+msgstr "Gigster English Level"
+
+#: admin/post-types/projects.php:296
+msgid "Search Freelancer English Level"
+msgstr "Search Gigster English Level"
+
+#: admin/post-types/projects.php:297
+msgid "All Freelancer English Level"
+msgstr "All Gigster English Level"
+
+#: admin/post-types/projects.php:298
+msgid "Parent Freelancer English Level"
+msgstr "Parent Gigster English Level"
+
+#: admin/post-types/projects.php:299
+msgid "Parent Freelancer English Level:"
+msgstr "Parent Gigster English Level:"
+
+#: admin/post-types/projects.php:300
+msgid "Edit Freelancer English Level"
+msgstr "Edit Gigster English Level"
+
+#: admin/post-types/projects.php:301
+msgid "Update Freelancer English Level"
+msgstr "Update Gigster English Level"
+
+#: admin/post-types/projects.php:302
+msgid "Add New Freelancer English Level"
+msgstr "Add New Gigster English Level"
+
+#: admin/post-types/projects.php:303
+msgid "New Freelancer English Level Name"
+msgstr "New Gigster English Level Name"
+
+#: admin/post-types/projects.php:320 admin/post-types/projects.php:321 
+#: admin/post-types/projects.php:330
+msgid "Freelancer Type"
+msgstr "Gigster Type"
+
+#: admin/post-types/projects.php:322
+msgid "Search Freelancer Type"
+msgstr "Search Gigster Type"
+
+#: admin/post-types/projects.php:323
+msgid "All Freelancer Type"
+msgstr "All Gigster Type"
+
+#: admin/post-types/projects.php:324
+msgid "Parent Freelancer Type"
+msgstr "Parent Gigster Type"
+
+#: admin/post-types/projects.php:325
+msgid "Parent Freelancer Type:"
+msgstr "Parent Gigster Type:"
+
+#: admin/post-types/projects.php:326
+msgid "Edit Freelancer Type"
+msgstr "Edit Gigster Type"
+
+#: admin/post-types/projects.php:327
+msgid "Update Freelancer Type"
+msgstr "Update Gigster Type"
+
+#: admin/post-types/projects.php:328
+msgid "Add New Freelancer Type"
+msgstr "Add New Gigster Type"
+
+#: admin/post-types/projects.php:329
+msgid "New Freelancer Type Name"
+msgstr "New Gigster Type Name"
+
+#: admin/post-types/projects.php:363 admin/post-types/projects.php:381
+msgid "Approve Project"
+msgstr ""
+
+#: admin/post-types/projects.php:393
+msgid "Project Type"
+msgstr ""
+
+#: admin/post-types/projects.php:394 
+#: elementor/shortcodes/wt-featured-services-carosel.php:145 
+#: elementor/shortcodes/wt-top-freelancer-v2.php:113 
+#: elementor/shortcodes/wt-top-freelancer.php:122
+msgid "Featured"
+msgstr ""
+
+#: admin/post-types/projects.php:396
+msgid "Price"
+msgstr ""
+
+#: admin/post-types/proposals.php:38 admin/post-types/proposals.php:39
+msgid "Proposals"
+msgstr ""
+
+#: admin/post-types/proposals.php:40
+msgid "Proposal"
+msgstr ""
+
+#: admin/post-types/proposals.php:41
+msgid "Add Proposal"
+msgstr ""
+
+#: admin/post-types/proposals.php:42
+msgid "Add New Proposal"
+msgstr ""
+
+#: admin/post-types/proposals.php:44
+msgid "Edit Proposal"
+msgstr ""
+
+#: admin/post-types/proposals.php:45
+msgid "New Proposal"
+msgstr ""
+
+#: admin/post-types/proposals.php:46 admin/post-types/proposals.php:47
+msgid "View Proposal"
+msgstr ""
+
+#: admin/post-types/proposals.php:48
+msgid "Search Proposal"
+msgstr ""
+
+#: admin/post-types/proposals.php:49
+msgid "No Proposal found"
+msgstr ""
+
+#: admin/post-types/proposals.php:50
+msgid "No Proposal found in trash"
+msgstr ""
+
+#: admin/post-types/proposals.php:51
+msgid "Parent Proposals"
+msgstr ""
+
+#: admin/post-types/proposals.php:55
+msgid "This is where you can add new proposal"
+msgstr ""
+
+#: admin/post-types/proposals.php:84
+msgid "Send By"
+msgstr ""
+
+#: admin/post-types/proposals.php:109
+msgid "Pending"
+msgstr ""
+
+#: admin/post-types/report.php:38 admin/post-types/report.php:39
+msgid "Reports"
+msgstr ""
+
+#: admin/post-types/report.php:40
+msgid "Report"
+msgstr ""
+
+#: admin/post-types/report.php:41
+msgid "Add Report"
+msgstr ""
+
+#: admin/post-types/report.php:42
+msgid "Add New Report"
+msgstr ""
+
+#: admin/post-types/report.php:44
+msgid "Edit Report"
+msgstr ""
+
+#: admin/post-types/report.php:45
+msgid "New Report"
+msgstr ""
+
+#: admin/post-types/report.php:46 admin/post-types/report.php:47
+msgid "View Report"
+msgstr ""
+
+#: admin/post-types/report.php:48
+msgid "Search Report"
+msgstr ""
+
+#: admin/post-types/report.php:49
+msgid "No Report found"
+msgstr ""
+
+#: admin/post-types/report.php:50
+msgid "No Report found in trash"
+msgstr ""
+
+#: admin/post-types/report.php:51
+msgid "Parent Reports"
+msgstr ""
+
+#: admin/post-types/report.php:55
+msgid "This is where you can add new reports "
+msgstr ""
+
+#: admin/post-types/report.php:82
+msgid "Reported by"
+msgstr ""
+
+#: admin/post-types/report.php:83
+msgid "Report Type"
+msgstr ""
+
+#: admin/post-types/report.php:84
+msgid "Reported Posts"
+msgstr ""
+
+#: admin/post-types/report.php:112 admin/post-types/services-orders.php:109
+msgid "Service"
+msgstr "Gig"
+
+#: admin/post-types/reviews.php:40 admin/post-types/reviews.php:41 
+#: admin/post-types/reviews.php:42
+msgid "Reviews"
+msgstr ""
+
+#: admin/post-types/reviews.php:43
+msgid "Add Review"
+msgstr ""
+
+#: admin/post-types/reviews.php:44
+msgid "Add New Review"
+msgstr ""
+
+#: admin/post-types/reviews.php:46
+msgid "Edit Review"
+msgstr ""
+
+#: admin/post-types/reviews.php:47
+msgid "New Review"
+msgstr ""
+
+#: admin/post-types/reviews.php:48 admin/post-types/reviews.php:49
+msgid "View Review"
+msgstr ""
+
+#: admin/post-types/reviews.php:50
+msgid "Search Review"
+msgstr ""
+
+#: admin/post-types/reviews.php:51
+msgid "No Review found"
+msgstr ""
+
+#: admin/post-types/reviews.php:52
+msgid "No Review found in trash"
+msgstr ""
+
+#: admin/post-types/reviews.php:53
+msgid "Parent Reviews"
+msgstr ""
+
+#: admin/post-types/reviews.php:57
+msgid "This is where you can add new Reviews "
+msgstr ""
+
+#: admin/post-types/reviews.php:85 admin/post-types/services-orders.php:88
+msgid "Review Info"
+msgstr ""
+
+#: admin/post-types/reviews.php:118
+msgid "Rating:"
+msgstr ""
+
+#: admin/post-types/reviews.php:128
+msgid "Review By"
+msgstr ""
+
+#: admin/post-types/reviews.php:131 admin/post-types/reviews.php:145 
+#: admin/post-types/services-orders.php:112
+msgid "Click for user details"
+msgstr ""
+
+#: admin/post-types/reviews.php:141
+msgid "Review To"
+msgstr ""
+
+#: admin/post-types/reviews.php:169
+msgid "Review"
+msgstr ""
+
+#: admin/post-types/reviews.php:171
+msgid "Review by"
+msgstr ""
+
+#: admin/post-types/reviews.php:172
+msgid "Review to"
+msgstr ""
+
+#: admin/post-types/services-orders.php:41 
+#: admin/post-types/services-orders.php:42
+msgid "Service Order"
+msgstr "Gig Order"
+
+#: admin/post-types/services-orders.php:43
+msgid "Service order"
+msgstr "Gig order"
+
+#: admin/post-types/services-orders.php:44
+msgid "Add Service order"
+msgstr "Add Gig order"
+
+#: admin/post-types/services-orders.php:45
+msgid "Add New Service order"
+msgstr "Add New Gig order"
+
+#: admin/post-types/services-orders.php:47
+msgid "Edit Service order"
+msgstr "Edit Gig order"
+
+#: admin/post-types/services-orders.php:48
+msgid "New Service order"
+msgstr "New Gig order"
+
+#: admin/post-types/services-orders.php:49 
+#: admin/post-types/services-orders.php:50
+msgid "View Service order"
+msgstr "View Gig order"
+
+#: admin/post-types/services-orders.php:51
+msgid "Search Service order"
+msgstr "Search Gig order"
+
+#: admin/post-types/services-orders.php:52
+msgid "No Service order found"
+msgstr "No Gig order found"
+
+#: admin/post-types/services-orders.php:53
+msgid "No Service order found in trash"
+msgstr "No Gig order found in trash"
+
+#: admin/post-types/services-orders.php:54
+msgid "Parent Service order"
+msgstr "Parent Gig order"
+
+#: admin/post-types/services-orders.php:58
+msgid "This is where you can add new Service order"
+msgstr "This is where you can add new Gig order"
+
+#: admin/settings/settings.php:24 admin/settings/settings.php:25 
+#: admin/settings/settings.php:80
+msgid "Settings"
+msgstr ""
+
+#: admin/settings/settings.php:75
+msgid "What's New?"
+msgstr ""
+
+#: admin/settings/settings.php:89
+msgid "Rewrite URL"
+msgstr ""
+
+#: admin/settings/settings.php:97 admin/settings/settings.php:112
+msgid ""
+"It will be used at post / Taxonomy detail page in URL as slug. Please use "
+"words without spaces."
+msgstr ""
+
+#: admin/settings/settings.php:123
+msgid "Save Changes"
+msgstr ""
+
+#: admin/settings/settings.php:132
+msgid "Minimum System Requirements"
+msgstr ""
+
+#: admin/settings/settings.php:136
+msgid "PHP version should be 7.0 or above"
+msgstr ""
+
+#: admin/settings/settings.php:137
+msgid "PHP Zip extension Should"
+msgstr ""
+
+#: admin/settings/settings.php:138
+msgid "max_execution_time = 300"
+msgstr ""
+
+#: admin/settings/settings.php:139
+msgid "max_input_time = 300"
+msgstr ""
+
+#: admin/settings/settings.php:140
+msgid "memory_limit = 300"
+msgstr ""
+
+#: admin/settings/settings.php:141
+msgid "post_max_size = 100M"
+msgstr ""
+
+#: admin/settings/settings.php:142
+msgid "upload_max_filesize = 100M"
+msgstr ""
+
+#: admin/settings/settings.php:143
+msgid "Node.js for real-time chat"
+msgstr ""
+
+#: admin/settings/settings.php:144
+msgid "allow_url_fopen and allow_url_include must be on"
+msgstr ""
+
+#: admin/settings/settings.php:152
+msgid "Video Tutorial"
+msgstr ""
+
+#: admin/settings/settings.php:163
+msgid "Get Support"
+msgstr ""
+
+#: admin/settings/settings.php:165
+msgid "Create support ticket"
+msgstr ""
+
+#: admin/settings/settings.php:171
+msgid "All Rights Reserved"
+msgstr ""
+
+#. Author of the plugin
+#: admin/settings/settings.php:171
+msgid "Amentotech"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-menu.php:37
+msgid "Categories Menu"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-menu.php:73 
+#: elementor/shortcodes/sc-categories-v2.php:73 
+#: elementor/shortcodes/sc-categories-v3.php:73 
+#: elementor/shortcodes/sc-categories.php:73 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:73 
+#: elementor/shortcodes/sc-home-slider-v4.php:75 
+#: elementor/shortcodes/sc-home-slider-v5.php:71 
+#: elementor/shortcodes/sc-home-slider.php:71 
+#: elementor/shortcodes/sc-latest-posted-jobs.php:70 
+#: elementor/shortcodes/sc-login-button.php:70 
+#: elementor/shortcodes/sc-packages-list.php:70 
+#: elementor/shortcodes/sc-registration-button.php:70 
+#: elementor/shortcodes/wt-aboutus.php:70 
+#: elementor/shortcodes/wt-authentication.php:71 
+#: elementor/shortcodes/wt-banner-v2.php:71 
+#: elementor/shortcodes/wt-banner.php:71 
+#: elementor/shortcodes/wt-brands-v2.php:70 
+#: elementor/shortcodes/wt-brands.php:70 
+#: elementor/shortcodes/wt-by-categories.php:73 
+#: elementor/shortcodes/wt-by-location.php:73 
+#: elementor/shortcodes/wt-by-skills-location.php:76 
+#: elementor/shortcodes/wt-by-skills.php:73 
+#: elementor/shortcodes/wt-categories-slider.php:73 
+#: elementor/shortcodes/wt-download-app-v2.php:70 
+#: elementor/shortcodes/wt-download-apps.php:70 
+#: elementor/shortcodes/wt-featured-services-carosel.php:74 
+#: elementor/shortcodes/wt-featured-services.php:73 
+#: elementor/shortcodes/wt-how-it-work-v4.php:71 
+#: elementor/shortcodes/wt-how-it-work.php:71 
+#: elementor/shortcodes/wt-latest-articals.php:73 
+#: elementor/shortcodes/wt-micro-services.php:73 
+#: elementor/shortcodes/wt-mobile-apps.php:70 
+#: elementor/shortcodes/wt-news-articles.php:72 
+#: elementor/shortcodes/wt-partner.php:70 
+#: elementor/shortcodes/wt-services.php:70 elementor/shortcodes/wt-team.php:70 
+#: elementor/shortcodes/wt-terms.php:73 
+#: elementor/shortcodes/wt-top-freelancer-v2.php:70 
+#: elementor/shortcodes/wt-top-freelancer.php:70 
+#: elementor/shortcodes/wt-welcome.php:71 
+#: elementor/shortcodes/wt-working-process.php:73
+msgid "Content"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-menu.php:82 
+#: elementor/shortcodes/sc-login-button.php:156 
+#: elementor/shortcodes/sc-registration-button.php:156
+msgid "Background color"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-menu.php:83
+msgid "Add background color. leave it empty to use default color."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-menu.php:91 
+#: elementor/shortcodes/sc-home-slider.php:80 
+#: elementor/shortcodes/sc-login-button.php:147 
+#: elementor/shortcodes/sc-registration-button.php:147 
+#: elementor/shortcodes/wt-aboutus.php:115 
+#: elementor/shortcodes/wt-banner-v2.php:80 
+#: elementor/shortcodes/wt-banner.php:80 
+#: elementor/shortcodes/wt-how-it-work.php:80 
+#: elementor/shortcodes/wt-mobile-apps.php:106
+msgid "Text color"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-menu.php:92 
+#: elementor/shortcodes/sc-home-slider.php:81 
+#: elementor/shortcodes/sc-login-button.php:148 
+#: elementor/shortcodes/sc-registration-button.php:148 
+#: elementor/shortcodes/wt-aboutus.php:116 
+#: elementor/shortcodes/wt-banner-v2.php:81 
+#: elementor/shortcodes/wt-banner.php:81 
+#: elementor/shortcodes/wt-how-it-work.php:81 
+#: elementor/shortcodes/wt-mobile-apps.php:107
+msgid "Add text color. leave it empty to use default color."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:37
+msgid "Explore Categories V2"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:82 
+#: elementor/shortcodes/sc-categories-v3.php:82 
+#: elementor/shortcodes/sc-categories.php:82 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:82 
+#: elementor/shortcodes/wt-by-categories.php:82 
+#: elementor/shortcodes/wt-by-location.php:82 
+#: elementor/shortcodes/wt-by-skills-location.php:85 
+#: elementor/shortcodes/wt-by-skills.php:82 
+#: elementor/shortcodes/wt-categories-slider.php:82 
+#: elementor/shortcodes/wt-terms.php:82
+msgid "Heading"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:83
+msgid "Add section heading, or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:91 
+#: elementor/shortcodes/sc-categories.php:91
+msgid "Sub Heading"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:92
+msgid "Add section sub heading, or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:100 
+#: elementor/shortcodes/sc-categories-v3.php:91 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:91 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:127 
+#: elementor/shortcodes/sc-home-slider-v4.php:102 
+#: elementor/shortcodes/sc-home-slider.php:107 
+#: elementor/shortcodes/wt-aboutus.php:106 
+#: elementor/shortcodes/wt-banner.php:107 
+#: elementor/shortcodes/wt-download-app-v2.php:106 
+#: elementor/shortcodes/wt-download-apps.php:106 
+#: elementor/shortcodes/wt-featured-services-carosel.php:101 
+#: elementor/shortcodes/wt-featured-services.php:100 
+#: elementor/shortcodes/wt-how-it-work-v4.php:98 
+#: elementor/shortcodes/wt-how-it-work.php:107 
+#: elementor/shortcodes/wt-latest-articals.php:100 
+#: elementor/shortcodes/wt-micro-services.php:100 
+#: elementor/shortcodes/wt-mobile-apps.php:97 
+#: elementor/shortcodes/wt-news-articles.php:90 
+#: elementor/shortcodes/wt-news-articles.php:260 
+#: elementor/shortcodes/wt-terms.php:91 
+#: elementor/shortcodes/wt-top-freelancer-v2.php:88 
+#: elementor/shortcodes/wt-top-freelancer.php:97 
+#: elementor/shortcodes/wt-welcome.php:98 
+#: elementor/shortcodes/wt-working-process.php:109
+msgid "Description"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:101 
+#: elementor/shortcodes/sc-home-slider-v5.php:159 
+#: elementor/shortcodes/sc-latest-posted-jobs.php:89 
+#: elementor/shortcodes/sc-packages-list.php:98
+msgid "Add description or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:109 
+#: elementor/shortcodes/sc-categories-v3.php:100 
+#: elementor/shortcodes/sc-categories.php:100 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:100 
+#: elementor/shortcodes/wt-by-skills-location.php:94 
+#: elementor/shortcodes/wt-by-skills.php:91 
+#: elementor/shortcodes/wt-featured-services-carosel.php:110 
+#: elementor/shortcodes/wt-featured-services.php:109 
+#: elementor/shortcodes/wt-micro-services.php:109
+msgid "Button Title"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:110 
+#: elementor/shortcodes/sc-categories-v3.php:101 
+#: elementor/shortcodes/sc-categories.php:101 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:101 
+#: elementor/shortcodes/wt-by-skills-location.php:95 
+#: elementor/shortcodes/wt-by-skills.php:92 
+#: elementor/shortcodes/wt-featured-services-carosel.php:111 
+#: elementor/shortcodes/wt-featured-services.php:110 
+#: elementor/shortcodes/wt-micro-services.php:110
+msgid "Add button title. Leave it empty to hide button."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:118 
+#: elementor/shortcodes/sc-categories-v3.php:136 
+#: elementor/shortcodes/sc-categories.php:109 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:136 
+#: elementor/shortcodes/wt-aboutus.php:133 
+#: elementor/shortcodes/wt-by-skills-location.php:103 
+#: elementor/shortcodes/wt-by-skills.php:100 
+#: elementor/shortcodes/wt-featured-services-carosel.php:119 
+#: elementor/shortcodes/wt-featured-services.php:118 
+#: elementor/shortcodes/wt-micro-services.php:118
+msgid "Button Link"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:119 
+#: elementor/shortcodes/sc-categories-v3.php:137 
+#: elementor/shortcodes/sc-categories.php:110 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:137 
+#: elementor/shortcodes/wt-by-categories.php:101 
+#: elementor/shortcodes/wt-by-location.php:101 
+#: elementor/shortcodes/wt-by-skills-location.php:104 
+#: elementor/shortcodes/wt-by-skills.php:101 
+#: elementor/shortcodes/wt-featured-services-carosel.php:120 
+#: elementor/shortcodes/wt-featured-services.php:119 
+#: elementor/shortcodes/wt-micro-services.php:119
+msgid "Add button link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:127 
+#: elementor/shortcodes/sc-categories-v3.php:145 
+#: elementor/shortcodes/sc-categories.php:118 
+#: elementor/shortcodes/wt-by-categories.php:109 
+#: elementor/shortcodes/wt-categories-slider.php:91
+msgid "Categories?"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:128 
+#: elementor/shortcodes/sc-categories-v3.php:146 
+#: elementor/shortcodes/sc-categories.php:119 
+#: elementor/shortcodes/wt-by-categories.php:110 
+#: elementor/shortcodes/wt-categories-slider.php:92
+msgid "Select categories to display."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:138 
+#: elementor/shortcodes/sc-categories-v3.php:156 
+#: elementor/shortcodes/sc-categories.php:129 
+#: elementor/shortcodes/wt-categories-slider.php:101
+msgid "Post Type?"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v2.php:142 
+#: elementor/shortcodes/sc-categories-v3.php:160 
+#: elementor/shortcodes/sc-categories.php:133 
+#: elementor/shortcodes/wt-by-categories.php:137 
+#: elementor/shortcodes/wt-by-location.php:124 
+#: elementor/shortcodes/wt-by-skills-location.php:137 
+#: elementor/shortcodes/wt-by-skills.php:137 
+#: elementor/shortcodes/wt-categories-slider.php:105
+msgid "Jobs"
+msgstr "Jobs"
+
+#: elementor/shortcodes/sc-categories-v2.php:143 
+#: elementor/shortcodes/sc-categories-v3.php:161 
+#: elementor/shortcodes/sc-categories.php:134 
+#: elementor/shortcodes/wt-by-categories.php:138 
+#: elementor/shortcodes/wt-by-location.php:126 
+#: elementor/shortcodes/wt-categories-slider.php:106 
+#: elementor/shortcodes/wt-services.php:37
+msgid "Services"
+msgstr "Gigs"
+
+#: elementor/shortcodes/sc-categories-v3.php:37
+msgid "Explore Categories V3"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v3.php:83 
+#: elementor/shortcodes/sc-categories.php:83 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:83 
+#: elementor/shortcodes/wt-by-categories.php:83 
+#: elementor/shortcodes/wt-by-location.php:83 
+#: elementor/shortcodes/wt-by-skills-location.php:86 
+#: elementor/shortcodes/wt-by-skills.php:83 
+#: elementor/shortcodes/wt-categories-slider.php:83 
+#: elementor/shortcodes/wt-terms.php:83
+msgid "Add section heading. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v3.php:92 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:92 
+#: elementor/shortcodes/sc-home-slider-v4.php:104 
+#: elementor/shortcodes/sc-home-slider.php:109 
+#: elementor/shortcodes/wt-terms.php:92
+msgid "Add section description. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v3.php:109
+msgid "Explore Title"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v3.php:110 
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:110
+msgid ""
+"Add explore title, which will be displayed above show all button. Leave it "
+"empty to hide button."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v3.php:118
+msgid "Explore Link"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v3.php:119
+msgid "Add explore link, default will be #"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v3.php:127
+msgid "Explore Description"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories-v3.php:128
+msgid ""
+"Add explore description, which will be displayed above show all button. "
+"Leave it empty to hide button."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories.php:37
+msgid "Explore Categories"
+msgstr ""
+
+#: elementor/shortcodes/sc-categories.php:92
+msgid "Add section sub heading. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-categories.php:216
+msgid "Explore"
+msgstr ""
+
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:37
+msgid "Freelancers by specialization"
+msgstr "Gigsters by specialization"
+
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:109 
+#: elementor/shortcodes/sc-home-slider-v4.php:84 
+#: elementor/shortcodes/sc-home-slider.php:89 
+#: elementor/shortcodes/wt-aboutus.php:88 
+#: elementor/shortcodes/wt-banner-v2.php:89 
+#: elementor/shortcodes/wt-banner.php:89 
+#: elementor/shortcodes/wt-download-app-v2.php:88 
+#: elementor/shortcodes/wt-download-apps.php:88 
+#: elementor/shortcodes/wt-featured-services-carosel.php:83 
+#: elementor/shortcodes/wt-featured-services.php:82 
+#: elementor/shortcodes/wt-how-it-work-v4.php:80 
+#: elementor/shortcodes/wt-how-it-work.php:89 
+#: elementor/shortcodes/wt-latest-articals.php:82 
+#: elementor/shortcodes/wt-micro-services.php:82 
+#: elementor/shortcodes/wt-mobile-apps.php:79 
+#: elementor/shortcodes/wt-news-articles.php:81 
+#: elementor/shortcodes/wt-team.php:79 
+#: elementor/shortcodes/wt-top-freelancer-v2.php:79 
+#: elementor/shortcodes/wt-top-freelancer.php:79 
+#: elementor/shortcodes/wt-welcome.php:80 
+#: elementor/shortcodes/wt-working-process.php:91
+msgid "Title"
+msgstr ""
+
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:118
+msgid "Link"
+msgstr ""
+
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:119
+msgid "Add button link, default will be #"
+msgstr ""
+
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:128
+msgid ""
+"Add description, which will be displayed above show all button. Leave it "
+"empty to hide button."
+msgstr ""
+
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:145
+msgid "Specializations?"
+msgstr ""
+
+#: elementor/shortcodes/sc-freelancer-by-specializations.php:146
+msgid "Select specializations to display."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:37
+msgid "Search Banner v4"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:85 
+#: elementor/shortcodes/sc-home-slider-v5.php:91 
+#: elementor/shortcodes/sc-home-slider.php:90 
+#: elementor/shortcodes/wt-download-app-v2.php:89 
+#: elementor/shortcodes/wt-download-apps.php:89 
+#: elementor/shortcodes/wt-top-freelancer-v2.php:80
+msgid "Add title. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:93 
+#: elementor/shortcodes/sc-home-slider.php:98 
+#: elementor/shortcodes/wt-download-app-v2.php:97 
+#: elementor/shortcodes/wt-download-apps.php:97
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:94 
+#: elementor/shortcodes/sc-home-slider-v5.php:103 
+#: elementor/shortcodes/sc-home-slider.php:99 
+#: elementor/shortcodes/wt-aboutus.php:98 
+#: elementor/shortcodes/wt-featured-services-carosel.php:93 
+#: elementor/shortcodes/wt-featured-services.php:92 
+#: elementor/shortcodes/wt-latest-articals.php:92 
+#: elementor/shortcodes/wt-micro-services.php:92 
+#: elementor/shortcodes/wt-mobile-apps.php:89 
+#: elementor/shortcodes/wt-top-freelancer.php:89 
+#: elementor/shortcodes/wt-welcome.php:90 
+#: elementor/shortcodes/wt-working-process.php:101
+msgid "Add sub title. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:112 
+#: elementor/shortcodes/sc-home-slider.php:117 
+#: elementor/shortcodes/wt-banner-v2.php:107 
+#: elementor/shortcodes/wt-banner.php:116
+msgid "Video title"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:114 
+#: elementor/shortcodes/sc-home-slider.php:119
+msgid "Add video title. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:122 
+#: elementor/shortcodes/sc-home-slider.php:127
+msgid "Video Url"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:123 
+#: elementor/shortcodes/sc-home-slider.php:128
+msgid "Add video url. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:131 
+#: elementor/shortcodes/sc-home-slider-v5.php:114 
+#: elementor/shortcodes/sc-home-slider.php:136 
+#: elementor/shortcodes/wt-banner-v2.php:134 
+#: elementor/shortcodes/wt-banner.php:143
+msgid "Search options"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:142 
+#: elementor/shortcodes/sc-home-slider-v5.php:166 
+#: elementor/shortcodes/sc-home-slider.php:147
+msgid "Add slide"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:147 
+#: elementor/shortcodes/sc-home-slider-v5.php:140 
+#: elementor/shortcodes/sc-home-slider.php:152 
+#: elementor/shortcodes/sc-latest-posted-jobs.php:79 
+#: elementor/shortcodes/sc-packages-list.php:79 
+#: elementor/shortcodes/wt-partner.php:78 
+#: elementor/shortcodes/wt-partner.php:110
+msgid "Add Title"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:154 
+#: elementor/shortcodes/sc-home-slider-v5.php:172 
+#: elementor/shortcodes/sc-home-slider.php:159 
+#: elementor/shortcodes/wt-brands-v2.php:84 
+#: elementor/shortcodes/wt-brands.php:89
+msgid "Upload slide Image"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:155 
+#: elementor/shortcodes/sc-home-slider-v4.php:174 
+#: elementor/shortcodes/sc-home-slider-v5.php:173 
+#: elementor/shortcodes/sc-home-slider.php:160 
+#: elementor/shortcodes/wt-brands-v2.php:85 
+#: elementor/shortcodes/wt-brands.php:90 
+#: elementor/shortcodes/wt-how-it-work.php:132 
+#: elementor/shortcodes/wt-partner.php:117 elementor/shortcodes/wt-team.php:115
+msgid "Upload image."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:166
+msgid "Add Animation image"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:173 
+#: elementor/shortcodes/wt-download-app-v2.php:79 
+#: elementor/shortcodes/wt-download-apps.php:79 
+#: elementor/shortcodes/wt-mobile-apps.php:167 
+#: elementor/shortcodes/wt-partner.php:116 
+#: elementor/shortcodes/wt-team.php:114 elementor/shortcodes/wt-welcome.php:107
+msgid "Upload Image"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:240 
+#: elementor/shortcodes/sc-home-slider-v5.php:233 
+#: elementor/shortcodes/sc-home-slider.php:223 
+#: elementor/shortcodes/wt-banner-v2.php:206 
+#: elementor/shortcodes/wt-banner.php:231
+msgid "I’m looking for"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:270 
+#: elementor/shortcodes/sc-home-slider-v5.php:261
+msgid "Search Now"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v4.php:305 
+#: elementor/shortcodes/sc-home-slider-v4.php:316
+msgid "Slider"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:37
+msgid "Search Banner V5"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:79
+msgid "Form Enable/Disbale"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:80 
+#: elementor/shortcodes/wt-banner-v2.php:146
+msgid "Enable"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:81 
+#: elementor/shortcodes/wt-banner-v2.php:147
+msgid "Disable"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:90
+msgid "Form title"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:102
+msgid "Form sub title"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:129
+msgid "Add Top Title"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:130
+msgid "Add top title or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:141 
+#: elementor/shortcodes/sc-latest-posted-jobs.php:80 
+#: elementor/shortcodes/sc-packages-list.php:80
+msgid "Add title or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:149
+msgid "Add  SubTitle"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:150
+msgid "Add sub title or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:158 
+#: elementor/shortcodes/sc-latest-posted-jobs.php:88 
+#: elementor/shortcodes/sc-packages-list.php:97 
+#: elementor/shortcodes/wt-services.php:89
+msgid "Add Description"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:256
+msgid "more than 2500 listings available"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:256
+msgid "Price Range:"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider-v5.php:293
+msgid "Slide"
+msgstr ""
+
+#: elementor/shortcodes/sc-home-slider.php:37
+msgid "Search Banner v3"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:37
+msgid "Latest Posted Jobs"
+msgstr "Latest Posted Jobs"
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:97
+msgid "Add Button Title"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:98
+msgid "Add button or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:106
+msgid "Add Button Link"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:107
+msgid "Add button link, or default will be #."
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:114 
+#: elementor/shortcodes/wt-featured-services-carosel.php:154 
+#: elementor/shortcodes/wt-featured-services.php:152 
+#: elementor/shortcodes/wt-micro-services.php:153 
+#: elementor/shortcodes/wt-news-articles.php:192
+msgid "Number of posts"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:136 
+#: elementor/shortcodes/wt-news-articles.php:161
+msgid "Select posts Order."
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:139 
+#: elementor/shortcodes/wt-news-articles.php:164
+msgid "ASC"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:140 
+#: elementor/shortcodes/wt-news-articles.php:165
+msgid "DESC"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:149 
+#: elementor/shortcodes/wt-news-articles.php:174
+msgid "Post Order"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:150 
+#: elementor/shortcodes/wt-news-articles.php:175
+msgid "View Posts By."
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:153 
+#: elementor/shortcodes/wt-news-articles.php:178
+msgid "Order by post id"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:154 
+#: elementor/shortcodes/wt-news-articles.php:179
+msgid "Order by author"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:155 
+#: elementor/shortcodes/wt-news-articles.php:180
+msgid "Order by title"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:156 
+#: elementor/shortcodes/wt-news-articles.php:181
+msgid "Order by post name"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:157 
+#: elementor/shortcodes/wt-news-articles.php:182
+msgid "Order by date"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:158 
+#: elementor/shortcodes/wt-news-articles.php:183
+msgid "Random order"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:159 
+#: elementor/shortcodes/wt-news-articles.php:184
+msgid "Order by number of comments"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:243
+msgid "/ HOUR"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:263
+msgid "Remuneration"
+msgstr ""
+
+#: elementor/shortcodes/sc-latest-posted-jobs.php:272
+msgid "Apply now"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:37
+msgid "Login Button"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:79 
+#: elementor/shortcodes/sc-registration-button.php:79
+msgid "Button title?"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:80 
+#: elementor/shortcodes/sc-registration-button.php:80
+msgid "Add button title here"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:87 
+#: elementor/shortcodes/sc-registration-button.php:87
+msgid "Button Width"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:98 
+#: elementor/shortcodes/sc-registration-button.php:98
+msgid "Button Height"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:110 
+#: elementor/shortcodes/sc-registration-button.php:110
+msgid "Add Custom CSS"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:111 
+#: elementor/shortcodes/sc-registration-button.php:111
+msgid "Add your custom css to style the button"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:118 
+#: elementor/shortcodes/sc-registration-button.php:118
+msgid "Alignment"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:122 
+#: elementor/shortcodes/sc-registration-button.php:122 
+#: elementor/shortcodes/wt-working-process.php:121
+msgid "Left"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:126 
+#: elementor/shortcodes/sc-registration-button.php:126
+msgid "Center"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:130 
+#: elementor/shortcodes/sc-registration-button.php:130 
+#: elementor/shortcodes/wt-working-process.php:122 
+#: elementor/shortcodes/wt-working-process.php:135
+msgid "Right"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:134 
+#: elementor/shortcodes/sc-registration-button.php:134
+msgid "Justified"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:157 
+#: elementor/shortcodes/sc-registration-button.php:157
+msgid "Add background color"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:165 
+#: elementor/shortcodes/sc-registration-button.php:165
+msgid "Background hover color"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:166 
+#: elementor/shortcodes/sc-registration-button.php:166
+msgid "Add background hover color"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:173 
+#: elementor/shortcodes/sc-registration-button.php:173
+msgid "Text hover color"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:174 
+#: elementor/shortcodes/sc-registration-button.php:174
+msgid "Add text hover color"
+msgstr ""
+
+#: elementor/shortcodes/sc-login-button.php:189
+msgid "Login/Registration"
+msgstr ""
+
+#: elementor/shortcodes/sc-packages-list.php:37
+msgid "Packages List"
+msgstr ""
+
+#: elementor/shortcodes/sc-packages-list.php:88
+msgid "Add Tax Note"
+msgstr ""
+
+#: elementor/shortcodes/sc-packages-list.php:89
+msgid "Add tax note or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/sc-packages-list.php:105
+msgid "Packages Type"
+msgstr ""
+
+#: elementor/shortcodes/sc-packages-list.php:109
+msgid "Show both with toggle button"
+msgstr ""
+
+#: elementor/shortcodes/sc-packages-list.php:110
+msgid "Show freelancer packages"
+msgstr "Show gigster packages"
+
+#: elementor/shortcodes/sc-packages-list.php:111
+msgid "Show employer packages"
+msgstr "Show guru packages"
+
+#: elementor/shortcodes/sc-packages-list.php:113
+msgid "Select packages type to show on the front-end"
+msgstr ""
+
+#: elementor/shortcodes/sc-packages-list.php:205
+msgid "I’m Freelancer"
+msgstr "Gigster"
+
+#: elementor/shortcodes/sc-packages-list.php:212
+msgid "I’m Employer"
+msgstr "Entrepreneur"
+
+#: elementor/shortcodes/sc-packages-list.php:272
+msgid "Package"
+msgstr ""
+
+#: elementor/shortcodes/sc-packages-list.php:280
+msgid "Package Features"
+msgstr ""
+
+#: elementor/shortcodes/sc-packages-list.php:294
+msgid "Buy Now"
+msgstr ""
+
+#: elementor/shortcodes/sc-registration-button.php:37
+msgid "Registration Button"
+msgstr ""
+
+#: elementor/shortcodes/sc-registration-button.php:189
+msgid "Signup Now"
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:37
+msgid "About Us"
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:79 
+#: elementor/shortcodes/wt-working-process.php:82
+msgid "Upload Background Image"
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:80 
+#: elementor/shortcodes/wt-mobile-apps.php:168 
+#: elementor/shortcodes/wt-working-process.php:83
+msgid "Upload image. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:89 
+#: elementor/shortcodes/wt-featured-services-carosel.php:84 
+#: elementor/shortcodes/wt-featured-services.php:83 
+#: elementor/shortcodes/wt-latest-articals.php:83 
+#: elementor/shortcodes/wt-micro-services.php:83 
+#: elementor/shortcodes/wt-mobile-apps.php:80 
+#: elementor/shortcodes/wt-top-freelancer.php:80 
+#: elementor/shortcodes/wt-welcome.php:81 
+#: elementor/shortcodes/wt-working-process.php:92
+msgid "Add newsletter title. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:97 
+#: elementor/shortcodes/wt-banner-v2.php:98 
+#: elementor/shortcodes/wt-banner.php:98 
+#: elementor/shortcodes/wt-featured-services-carosel.php:92 
+#: elementor/shortcodes/wt-featured-services.php:91 
+#: elementor/shortcodes/wt-how-it-work-v4.php:89 
+#: elementor/shortcodes/wt-how-it-work.php:98 
+#: elementor/shortcodes/wt-latest-articals.php:91 
+#: elementor/shortcodes/wt-micro-services.php:91 
+#: elementor/shortcodes/wt-mobile-apps.php:88 
+#: elementor/shortcodes/wt-team.php:88 
+#: elementor/shortcodes/wt-top-freelancer.php:88 
+#: elementor/shortcodes/wt-welcome.php:89 
+#: elementor/shortcodes/wt-working-process.php:100
+msgid "Sub title"
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:107 
+#: elementor/shortcodes/wt-featured-services-carosel.php:102 
+#: elementor/shortcodes/wt-featured-services.php:101 
+#: elementor/shortcodes/wt-latest-articals.php:101 
+#: elementor/shortcodes/wt-micro-services.php:101 
+#: elementor/shortcodes/wt-mobile-apps.php:98 
+#: elementor/shortcodes/wt-top-freelancer.php:98 
+#: elementor/shortcodes/wt-welcome.php:99 
+#: elementor/shortcodes/wt-working-process.php:110
+msgid "Add newsletter description. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:123
+msgid "Add Button"
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:128 
+#: elementor/shortcodes/wt-download-apps.php:130
+msgid "Button Text"
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:139
+msgid "Button Style"
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:141
+msgid "Style 1"
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:142
+msgid "Style 2"
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:149 
+#: elementor/shortcodes/wt-brands.php:95 
+#: elementor/shortcodes/wt-by-categories.php:134 
+#: elementor/shortcodes/wt-by-location.php:121 
+#: elementor/shortcodes/wt-by-skills-location.php:134 
+#: elementor/shortcodes/wt-by-skills.php:134 
+#: elementor/shortcodes/wt-download-apps.php:135
+msgid "Link Target"
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:153 
+#: elementor/shortcodes/wt-brands.php:99 
+#: elementor/shortcodes/wt-download-app-v2.php:160 
+#: elementor/shortcodes/wt-download-app-v2.php:189 
+#: elementor/shortcodes/wt-download-apps.php:139
+msgid "New Tab"
+msgstr ""
+
+#: elementor/shortcodes/wt-aboutus.php:154 
+#: elementor/shortcodes/wt-brands.php:100 
+#: elementor/shortcodes/wt-download-app-v2.php:161 
+#: elementor/shortcodes/wt-download-app-v2.php:190 
+#: elementor/shortcodes/wt-download-apps.php:140
+msgid "Current Tab"
+msgstr ""
+
+#: elementor/shortcodes/wt-authentication.php:79
+msgid "Form type"
+msgstr ""
+
+#: elementor/shortcodes/wt-authentication.php:83
+msgid "Register Form"
+msgstr ""
+
+#: elementor/shortcodes/wt-authentication.php:84
+msgid "Login Form"
+msgstr ""
+
+#: elementor/shortcodes/wt-banner-v2.php:37
+msgid "Search Banner V2"
+msgstr ""
+
+#: elementor/shortcodes/wt-banner-v2.php:90 
+#: elementor/shortcodes/wt-banner.php:90 
+#: elementor/shortcodes/wt-how-it-work-v4.php:81 
+#: elementor/shortcodes/wt-how-it-work.php:90 
+#: elementor/shortcodes/wt-news-articles.php:82 
+#: elementor/shortcodes/wt-team.php:80
+msgid "Add section title. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-banner-v2.php:99 
+#: elementor/shortcodes/wt-banner.php:99 
+#: elementor/shortcodes/wt-how-it-work-v4.php:90 
+#: elementor/shortcodes/wt-how-it-work.php:99 
+#: elementor/shortcodes/wt-team.php:89
+msgid "Add section sub title. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-banner-v2.php:108 
+#: elementor/shortcodes/wt-banner.php:117
+msgid "Add video title. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-banner-v2.php:116 
+#: elementor/shortcodes/wt-banner.php:125
+msgid "Video url"
+msgstr ""
+
+#: elementor/shortcodes/wt-banner-v2.php:117 
+#: elementor/shortcodes/wt-banner.php:126
+msgid "Add video url. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-banner-v2.php:125 
+#: elementor/shortcodes/wt-banner.php:134
+msgid "Upload banner images"
+msgstr ""
+
+#: elementor/shortcodes/wt-banner-v2.php:126 
+#: elementor/shortcodes/wt-banner.php:135
+msgid "Add banner images. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-banner-v2.php:145
+msgid "Particles Enable/Disbale"
+msgstr ""
+
+#: elementor/shortcodes/wt-banner-v2.php:234
+msgid "Search"
+msgstr ""
+
+#: elementor/shortcodes/wt-banner-v2.php:258 
+#: elementor/shortcodes/wt-banner.php:204
+msgid "Banner"
+msgstr ""
+
+#: elementor/shortcodes/wt-banner.php:37
+msgid "Search Banner V1"
+msgstr ""
+
+#: elementor/shortcodes/wt-banner.php:108
+msgid "Add description. Leave it empty to hide button."
+msgstr ""
+
+#: elementor/shortcodes/wt-brands-v2.php:37
+msgid "Brands V2"
+msgstr ""
+
+#: elementor/shortcodes/wt-brands-v2.php:78
+msgid "Add images"
+msgstr ""
+
+#: elementor/shortcodes/wt-brands-v2.php:118 
+#: elementor/shortcodes/wt-brands.php:160
+msgid "Brand"
+msgstr ""
+
+#: elementor/shortcodes/wt-brands.php:37
+msgid "Brands"
+msgstr ""
+
+#: elementor/shortcodes/wt-brands.php:78
+msgid "Add Brands"
+msgstr ""
+
+#: elementor/shortcodes/wt-brands.php:83
+msgid "Add Link"
+msgstr ""
+
+#: elementor/shortcodes/wt-brands.php:111 elementor/shortcodes/wt-team.php:162
+msgid "Loop"
+msgstr ""
+
+#: elementor/shortcodes/wt-brands.php:113 
+#: elementor/shortcodes/wt-brands.php:125 elementor/shortcodes/wt-team.php:164 
+#: elementor/shortcodes/wt-team.php:176
+msgid "True"
+msgstr ""
+
+#: elementor/shortcodes/wt-brands.php:114 
+#: elementor/shortcodes/wt-brands.php:126 elementor/shortcodes/wt-team.php:165 
+#: elementor/shortcodes/wt-team.php:177
+msgid "False"
+msgstr ""
+
+#: elementor/shortcodes/wt-brands.php:123 elementor/shortcodes/wt-team.php:174
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/shortcodes/wt-by-categories.php:37
+msgid "Jobs by categories"
+msgstr "Jobs by categories"
+
+#: elementor/shortcodes/wt-by-categories.php:91 
+#: elementor/shortcodes/wt-by-location.php:91
+msgid "Button title"
+msgstr ""
+
+#: elementor/shortcodes/wt-by-categories.php:92 
+#: elementor/shortcodes/wt-by-location.php:92
+msgid "Add button title. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-by-categories.php:100 
+#: elementor/shortcodes/wt-by-location.php:100
+msgid "Button link"
+msgstr ""
+
+#: elementor/shortcodes/wt-by-categories.php:121 
+#: elementor/shortcodes/wt-by-skills.php:121
+msgid "Select Version"
+msgstr ""
+
+#: elementor/shortcodes/wt-by-categories.php:135
+msgid "Do you want to search service or jobs?"
+msgstr "Do you want to search gig or jobs?"
+
+#: elementor/shortcodes/wt-by-location.php:37
+msgid "Jobs by locations"
+msgstr "Jobs by locations"
+
+#: elementor/shortcodes/wt-by-location.php:109
+msgid "Location?"
+msgstr ""
+
+#: elementor/shortcodes/wt-by-location.php:110
+msgid "Select location to display."
+msgstr ""
+
+#: elementor/shortcodes/wt-by-location.php:122 
+#: elementor/shortcodes/wt-by-skills-location.php:135 
+#: elementor/shortcodes/wt-by-skills.php:135
+msgid "Do you want to search freelancers or jobs?"
+msgstr "Do you want to search gigsters or jobs?"
+
+#: elementor/shortcodes/wt-by-skills-location.php:37
+msgid "Jobs by skills and location"
+msgstr "Jobs by skills and location"
+
+#: elementor/shortcodes/wt-by-skills-location.php:113
+msgid "Select Location to display."
+msgstr ""
+
+#: elementor/shortcodes/wt-by-skills-location.php:123 
+#: elementor/shortcodes/wt-by-skills.php:110
+msgid "Select skills to display."
+msgstr ""
+
+#: elementor/shortcodes/wt-by-skills-location.php:195
+msgid "in"
+msgstr ""
+
+#: elementor/shortcodes/wt-by-skills.php:37
+msgid "Jobs by skills"
+msgstr "Jobs by skills"
+
+#: elementor/shortcodes/wt-categories-slider.php:37
+msgid "Category Slider"
+msgstr ""
+
+#: elementor/shortcodes/wt-categories-slider.php:178
+msgid "Items"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:37
+msgid "Download App V2"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:80 
+#: elementor/shortcodes/wt-download-apps.php:80
+msgid "Upload Image. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:98 
+#: elementor/shortcodes/wt-download-apps.php:98
+msgid "Add subtitle. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:107 
+#: elementor/shortcodes/wt-download-apps.php:107 
+#: elementor/shortcodes/wt-top-freelancer-v2.php:89
+msgid "Add description. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:114
+msgid "Add Features"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:120
+msgid "Add Feature"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:121
+msgid "Add applications features or leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:133
+msgid "Features Description"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:134
+msgid "Add feature description. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:142
+msgid "Apple button title"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:143 
+#: elementor/shortcodes/wt-download-app-v2.php:151
+msgid "Add apple button title. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:150
+msgid "Apple button link"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:158
+msgid "Apple link target"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:163 
+#: elementor/shortcodes/wt-download-app-v2.php:192
+msgid "Add apple link target. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:171
+msgid "Android button title"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:172 
+#: elementor/shortcodes/wt-download-app-v2.php:180
+msgid "Add android button title. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:179
+msgid "Android button link"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:187
+msgid "Android link target"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:215 
+#: elementor/shortcodes/wt-download-app-v2.php:218
+msgid "_self"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-app-v2.php:286
+msgid "Download App"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-apps.php:37
+msgid "Download APPS"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-apps.php:114
+msgid "Logos"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-apps.php:119
+msgid "Select logo"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-apps.php:124 
+#: elementor/shortcodes/wt-mobile-apps.php:123 
+#: elementor/shortcodes/wt-mobile-apps.php:149
+msgid "Add button text"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-apps.php:126 
+#: elementor/shortcodes/wt-mobile-apps.php:125 
+#: elementor/shortcodes/wt-mobile-apps.php:151
+msgid ""
+"Add text to display button, it will override logo image and display simple "
+"button"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-apps.php:177
+msgid "APP"
+msgstr ""
+
+#: elementor/shortcodes/wt-download-apps.php:220
+msgid "Logo"
+msgstr ""
+
+#: elementor/shortcodes/wt-featured-services-carosel.php:37
+msgid "Services Carousel"
+msgstr "Gigs Carousel"
+
+#: elementor/shortcodes/wt-featured-services-carosel.php:128 
+#: elementor/shortcodes/wt-featured-services.php:127 
+#: elementor/shortcodes/wt-micro-services.php:127
+msgid "Choose Category"
+msgstr ""
+
+#: elementor/shortcodes/wt-featured-services-carosel.php:129 
+#: elementor/shortcodes/wt-featured-services.php:128 
+#: elementor/shortcodes/wt-micro-services.php:128
+msgid "Select category services to display."
+msgstr "Select category gigs to display."
+
+#: elementor/shortcodes/wt-featured-services-carosel.php:140
+msgid "Show services by"
+msgstr "Show gigs by"
+
+#: elementor/shortcodes/wt-featured-services-carosel.php:141
+msgid "Select type to list services by featured,verified,latest"
+msgstr "Select type to list gigs by featured,verified,latest"
+
+#: elementor/shortcodes/wt-featured-services-carosel.php:144
+msgid "Select services listing type"
+msgstr "Select gigs listing type"
+
+#: elementor/shortcodes/wt-featured-services-carosel.php:146 
+#: elementor/shortcodes/wt-top-freelancer-v2.php:114 
+#: elementor/shortcodes/wt-top-freelancer.php:123
+msgid "Recents"
+msgstr ""
+
+#: elementor/shortcodes/wt-featured-services-carosel.php:175
+msgid "Services by ID"
+msgstr "Gigs by ID"
+
+#: elementor/shortcodes/wt-featured-services-carosel.php:176
+msgid ""
+"You can add comma separated ID's for the services to show specific services. "
+"Leave it empty to use above settings"
+msgstr ""
+
+#: elementor/shortcodes/wt-featured-services-carosel.php:338 
+#: elementor/shortcodes/wt-featured-services.php:295 
+#: elementor/shortcodes/wt-micro-services.php:337
+msgid "Service "
+msgstr "Gig "
+
+#: elementor/shortcodes/wt-featured-services.php:37
+msgid "Featured Services"
+msgstr "Featured Gigs"
+
+#: elementor/shortcodes/wt-featured-services.php:139 
+#: elementor/shortcodes/wt-micro-services.php:139
+msgid "Column type"
+msgstr ""
+
+#: elementor/shortcodes/wt-featured-services.php:140 
+#: elementor/shortcodes/wt-micro-services.php:140
+msgid "Select column type"
+msgstr ""
+
+#: elementor/shortcodes/wt-featured-services.php:143 
+#: elementor/shortcodes/wt-micro-services.php:144
+msgid "3 Columns"
+msgstr ""
+
+#: elementor/shortcodes/wt-featured-services.php:144 
+#: elementor/shortcodes/wt-micro-services.php:145
+msgid "4 Columns"
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work-v4.php:37
+msgid "How It works V3"
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work-v4.php:99 
+#: elementor/shortcodes/wt-how-it-work.php:108
+msgid "Add description. Leave it empty to hide description."
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work-v4.php:107
+msgid "Add video Image"
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work-v4.php:108
+msgid "Add Video image. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work-v4.php:116
+msgid "Sub Video link"
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work-v4.php:117
+msgid "Add video link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work-v4.php:163
+msgid "How it work"
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work.php:37
+msgid "How It works"
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work.php:115
+msgid "Add work process"
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work.php:120 
+#: elementor/shortcodes/wt-services.php:83 
+#: elementor/shortcodes/wt-working-process.php:162
+msgid "Add title"
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work.php:125
+msgid "Add sub title"
+msgstr ""
+
+#: elementor/shortcodes/wt-how-it-work.php:131
+msgid "Upload image"
+msgstr ""
+
+#: elementor/shortcodes/wt-latest-articals.php:37
+msgid "Latest Articles"
+msgstr ""
+
+#: elementor/shortcodes/wt-latest-articals.php:109
+msgid "Posts ID's"
+msgstr ""
+
+#: elementor/shortcodes/wt-latest-articals.php:110
+msgid ""
+"Add Posts ID's with comma(,) separated e.g(15,21). Leave it empty to show "
+"latest posts."
+msgstr ""
+
+#: elementor/shortcodes/wt-latest-articals.php:122
+msgid "Number of latests posts"
+msgstr ""
+
+#: elementor/shortcodes/wt-latest-articals.php:123
+msgid ""
+"Add Number of latests posts. It's only working if  Posts ID's field is null."
+msgstr ""
+
+#: elementor/shortcodes/wt-latest-articals.php:201
+msgid "0 Comments"
+msgstr ""
+
+#: elementor/shortcodes/wt-latest-articals.php:203
+msgid " Comments"
+msgstr ""
+
+#: elementor/shortcodes/wt-latest-articals.php:205
+msgid "1 Comment"
+msgstr ""
+
+#: elementor/shortcodes/wt-latest-articals.php:210
+msgid "Comments are off"
+msgstr ""
+
+#: elementor/shortcodes/wt-latest-articals.php:241
+msgid "View(s)"
+msgstr ""
+
+#: elementor/shortcodes/wt-micro-services.php:143
+msgid "2 Columns"
+msgstr ""
+
+#: elementor/shortcodes/wt-micro-services.php:174
+msgid "Show pagination"
+msgstr ""
+
+#: elementor/shortcodes/wt-micro-services.php:175
+msgid "Show pagination or show only view more button"
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:37
+msgid "Mobile APPS"
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:115
+msgid "Google Play store image"
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:116
+msgid "Add Google Play store image."
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:133
+msgid "Google Play store link"
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:134
+msgid "Add Google Play store link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:142
+msgid "App store image"
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:143
+msgid "Add App store image."
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:158
+msgid "App store link"
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:159
+msgid "Add App store link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:218
+msgid "Play store"
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:221
+msgid "App store"
+msgstr ""
+
+#: elementor/shortcodes/wt-mobile-apps.php:230
+msgid "Mobile Apps"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:37
+msgid "News"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:98 
+#: elementor/shortcodes/wt-news-articles.php:239
+msgid "Listing type"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:99
+msgid "List/Grid settings are below."
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:102
+msgid "Grid"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:103
+msgid "List"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:111
+msgid "News By"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:112
+msgid "Select news by category or item."
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:115
+msgid "By item"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:116
+msgid "By Categories"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:125
+msgid "Pagination option"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:126
+msgid "Select pagination option."
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:138
+msgid "Categories settings"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:149
+msgid "Select categories to display posts."
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:212
+msgid "Posts/Items settings"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:222
+msgid "Add posts ID's"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:223
+msgid ""
+"Add posts ID's with comma seprated e.g (10,19) if News by selection is By "
+"item."
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:230
+msgid "List settings"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:242
+msgid "Full"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:243
+msgid "Small"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:251
+msgid "Grid settings"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:263
+msgid "Classic View Two Columns"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:264
+msgid "Three Columns"
+msgstr ""
+
+#: elementor/shortcodes/wt-news-articles.php:265
+msgid "Four Columns"
+msgstr ""
+
+#: elementor/shortcodes/wt-partner.php:37 
+#: elementor/shortcodes/wt-partner.php:164
+msgid "Partner"
+msgstr ""
+
+#: elementor/shortcodes/wt-partner.php:86
+msgid "Add title font size"
+msgstr ""
+
+#: elementor/shortcodes/wt-partner.php:97
+msgid "Title Color"
+msgstr ""
+
+#: elementor/shortcodes/wt-partner.php:105
+msgid "Add team Partner"
+msgstr ""
+
+#: elementor/shortcodes/wt-partner.php:122
+msgid "Url"
+msgstr ""
+
+#: elementor/shortcodes/wt-partner.php:123
+msgid "Add url. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-services.php:78
+msgid "Add services"
+msgstr "Add gigs"
+
+#: elementor/shortcodes/wt-services.php:95
+msgid "Add button title"
+msgstr ""
+
+#: elementor/shortcodes/wt-services.php:100
+msgid "Add button link"
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:37
+msgid "Teams"
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:98
+msgid "Add team Member"
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:103
+msgid "Add name"
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:108
+msgid "Add designation"
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:120
+msgid "Facebook link"
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:121
+msgid "Add facebook link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:126
+msgid "Twitter link"
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:127
+msgid "Add twitter link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:132
+msgid "LinkedIn link"
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:133
+msgid "Add LinkedIn link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:138
+msgid "Instagram link"
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:139
+msgid "Add instagram link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:144
+msgid "Google plus link"
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:145
+msgid "Add google plus link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:150
+msgid "Youtube link"
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:151
+msgid "Add youtube link. Leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-team.php:235
+msgid "Member Avatar"
+msgstr ""
+
+#: elementor/shortcodes/wt-terms.php:37
+msgid "Terms And Conditions"
+msgstr ""
+
+#: elementor/shortcodes/wt-top-freelancer-v2.php:37
+msgid "Top Freelancers V2"
+msgstr "Top Gigsters V2"
+
+#: elementor/shortcodes/wt-top-freelancer-v2.php:100 
+#: elementor/shortcodes/wt-top-freelancer.php:109
+msgid ""
+"Add top freelancer's with comma separated ID's e.g(12,20). Leave it empty to "
+"show freelancers by below settings"
+msgstr ""
+"Add top gigster's with comma separated ID's e.g(12,20). Leave it empty to "
+"show gigsters by below settings"
+
+#: elementor/shortcodes/wt-top-freelancer-v2.php:108 
+#: elementor/shortcodes/wt-top-freelancer.php:117
+msgid "Show freelancer by"
+msgstr "Show gigster by"
+
+#: elementor/shortcodes/wt-top-freelancer-v2.php:109
+msgid "Select type to list freelancers by featured, verified, latest"
+msgstr "Select type to list gigsters by featured, verified, latest"
+
+#: elementor/shortcodes/wt-top-freelancer-v2.php:112 
+#: elementor/shortcodes/wt-top-freelancer.php:121
+msgid "Select freelancer listing type"
+msgstr "Select gigster listing type"
+
+#: elementor/shortcodes/wt-top-freelancer-v2.php:115 
+#: elementor/shortcodes/wt-top-freelancer.php:124
+msgid "Former"
+msgstr ""
+
+#: elementor/shortcodes/wt-top-freelancer-v2.php:124 
+#: elementor/shortcodes/wt-top-freelancer.php:133
+msgid "Number of freelancers"
+msgstr "Number of gigsters"
+
+#: elementor/shortcodes/wt-top-freelancer-v2.php:125
+msgid ""
+"Add no of freelancer that show on listing.If empty then 4 freelancers will "
+"be listed."
+msgstr ""
+"Add no of gigster that show on listing.If empty then 4 gigsters will be "
+"listed."
+
+#: elementor/shortcodes/wt-top-freelancer-v2.php:234 
+#: elementor/shortcodes/wt-top-freelancer.php:259
+msgid "hr"
+msgstr ""
+
+#: elementor/shortcodes/wt-top-freelancer.php:37
+msgid "Top Freelancers"
+msgstr "Top Gigsters"
+
+#: elementor/shortcodes/wt-top-freelancer.php:118
+msgid "Select type to list freelancers by featured,verified,latest"
+msgstr "Select type to list gigsters by featured,verified,latest"
+
+#: elementor/shortcodes/wt-top-freelancer.php:134
+msgid ""
+"Add no of freelancer that show on listing.If empty then 4 freelancers are "
+"listing."
+msgstr ""
+"Add no of gigster that show on listing.If empty then 4 gigsters are listing."
+
+#: elementor/shortcodes/wt-top-freelancer.php:265
+msgid "5"
+msgstr ""
+
+#: elementor/shortcodes/wt-top-freelancer.php:265
+msgid "Feedback"
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:37
+msgid "Welcome Note"
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:108
+msgid "Upload video thumbnail. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:116
+msgid "Video link"
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:117
+msgid "Upload video link. leave it empty to hide."
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:123
+msgid "Add Counter"
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:128
+msgid "Counter Title"
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:133
+msgid "Start Number"
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:138
+msgid "End Number"
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:143
+msgid "Symbol"
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:148
+msgid "Interval"
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:168
+msgid "Speed"
+msgstr ""
+
+#: elementor/shortcodes/wt-welcome.php:290
+msgid "Welcome & Greetings"
+msgstr ""
+
+#: elementor/shortcodes/wt-working-process.php:37
+msgid "Working Process"
+msgstr ""
+
+#: elementor/shortcodes/wt-working-process.php:118
+msgid "Text Alignment"
+msgstr ""
+
+#: elementor/shortcodes/wt-working-process.php:131
+msgid "Image Alignment"
+msgstr ""
+
+#: elementor/shortcodes/wt-working-process.php:144
+msgid "Open First?"
+msgstr ""
+
+#: elementor/shortcodes/wt-working-process.php:157
+msgid "Add FAQs"
+msgstr ""
+
+#: elementor/shortcodes/wt-working-process.php:167
+msgid "Add question"
+msgstr ""
+
+#: elementor/shortcodes/wt-working-process.php:173
+msgid "Add Answer"
+msgstr ""
+
+#: elementor/shortcodes/wt-working-process.php:294
+msgid "Working"
+msgstr ""
+
+#: helpers/templates/email-authe.php:21 helpers/templates/email-authe.php:74 
+#: helpers/templates/email-authe.php:127
+msgid "Thank you for registering"
+msgstr ""
+
+#: helpers/templates/email-authe.php:185
+msgid "Email Verification Code"
+msgstr ""
+
+#: helpers/templates/email-delete-account.php:21
+msgid "Account Deleted"
+msgstr ""
+
+#: helpers/templates/email-disputes.php:24
+msgid "You have received a new dispute"
+msgstr ""
+
+#: helpers/templates/email-disputes.php:86
+msgid "Freelancer Dispute"
+msgstr "Gigster Dispute"
+
+#: helpers/templates/email-disputes.php:139
+msgid "Employer Dispute"
+msgstr "Guru Dispute"
+
+#: helpers/templates/email-earnings-notify.php:23
+msgid "Earning Notification"
+msgstr ""
+
+#: helpers/templates/email-get-password.php:24
+msgid "Forgot Password"
+msgstr ""
+
+#: helpers/templates/email-help.php:21
+msgid "Help & Support"
+msgstr ""
+
+#: helpers/templates/email-hire-freelancer.php:21 
+#: helpers/templates/email-hire-freelancer.php:172
+msgid "Congratulations! You are hired."
+msgstr ""
+
+#: helpers/templates/email-hire-freelancer.php:101
+msgid "Your proposal has been rejected"
+msgstr ""
+
+#: helpers/templates/email-identity-verification.php:21
+msgid "You have received a new identity verification request"
+msgstr ""
+
+#: helpers/templates/email-identity-verification.php:79
+msgid "Congratulation! your identity verification has been approved"
+msgstr ""
+
+#: helpers/templates/email-identity-verification.php:131
+msgid "Your request for identity verification has rejected"
+msgstr ""
+
+#: helpers/templates/email-job-cancel.php:22
+msgid "Job Cancelled"
+msgstr "Job Cancelled"
+
+#: helpers/templates/email-job-completed.php:21 
+#: helpers/templates/email-job-completed.php:81
+msgid "Job Completed"
+msgstr "Job Completed"
+
+#: helpers/templates/email-job-post.php:22
+msgid "Job Posted"
+msgstr "Job Posted"
+
+#: helpers/templates/email-job-post.php:92
+msgid "Congratulations! Your Job Has Posted"
+msgstr "Congratulations! Your Job Has Posted"
+
+#: helpers/templates/email-milestone-request.php:21
+msgid "Milestones request received."
+msgstr ""
+
+#: helpers/templates/email-milestone-request.php:71
+msgid "Milestone Request Approved."
+msgstr ""
+
+#: helpers/templates/email-milestone-request.php:125
+msgid "Milestone Request Rejected."
+msgstr ""
+
+#: helpers/templates/email-milestone-request.php:180 
+#: helpers/templates/email-milestone-request.php:231
+msgid "."
+msgstr ""
+
+#: helpers/templates/email-offer-send.php:21
+msgid "Offer Received"
+msgstr ""
+
+#: helpers/templates/email-offline-packages.php:21
+msgid "Offline order is received."
+msgstr ""
+
+#: helpers/templates/email-payouts-notify.php:23
+msgid "Payouts Notification"
+msgstr ""
+
+#: helpers/templates/email-proposal-message.php:21
+msgid "New Proposal Message Received"
+msgstr ""
+
+#: helpers/templates/email-proposal-message.php:76
+msgid "Proposal Message Received"
+msgstr ""
+
+#: helpers/templates/email-proposal-submit.php:21
+msgid "Proposal Received"
+msgstr ""
+
+#: helpers/templates/email-proposal-submit.php:82
+msgid "Proposal Submit"
+msgstr ""
+
+#: helpers/templates/email-proposal.php:23
+msgid "A New Proposal Received!"
+msgstr ""
+
+#: helpers/templates/email-published.php:22
+msgid "Account Approved!"
+msgstr ""
+
+#: helpers/templates/email-published.php:73
+msgid "Your project has published!"
+msgstr ""
+
+#: helpers/templates/email-published.php:125
+msgid "Your service has published!"
+msgstr "Your gig has published!"
+
+#: helpers/templates/email-receiver-chat-notification.php:24
+msgid "Message Received"
+msgstr ""
+
+#: helpers/templates/email-report.php:21
+msgid "Employer Reported"
+msgstr "Guru Reported"
+
+#: helpers/templates/email-report.php:81
+msgid "Project Reported"
+msgstr ""
+
+#: helpers/templates/email-report.php:143
+msgid "A freelancer has reported!"
+msgstr "A gigster has reported!"
+
+#: helpers/templates/email-report.php:204
+msgid "A Service has reported!"
+msgstr "A Gig has reported!"
+
+#: helpers/templates/email-service-cancel.php:22
+msgid "Service Cancelled"
+msgstr "Gig Cancelled"
+
+#: helpers/templates/email-service-completed.php:21 
+#: helpers/templates/email-service-completed.php:81
+msgid "Service Completed"
+msgstr "Gig Completed"
+
+#: helpers/templates/email-service-message.php:21
+msgid "New Service Message Received"
+msgstr "New Gig Message Received"
+
+#: helpers/templates/email-service-message.php:76
+msgid "Service Message Received"
+msgstr "Gig Message Received"
+
+#: helpers/templates/email-service-post.php:22
+msgid "Service Posted"
+msgstr "Gig Posted"
+
+#: helpers/templates/email-service-post.php:82
+msgid "Congratulations! Your Service Has Posted"
+msgstr "Congratulations! Your Gig Has Posted"
+
+#: helpers/templates/job-notification.php:21
+msgid "New Jobs are Posted"
+msgstr "New Jobs are Posted"
+
+#: helpers/templates/package-subscription.php:22 
+#: helpers/templates/package-subscription.php:87
+msgid "Thank you for purchasing the package!"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:19
+msgid "Join Our Free Newsletter:"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:25
+msgid "Add your email"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:27
+msgid "Subscribe"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:66
+msgid "Email address is required."
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:76 
+#: libraries/mailchimp/class-mailchimp.php:122
+msgid "Some error occur,please try again later."
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:96
+msgid "No list selected yet! please contact administrator"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:117
+msgid "Successfully subscribed"
+msgstr ""
+
+#. Name of the plugin
+msgid "Workreap Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin have the core functionality for Workreap WordPress Theme"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/amentotech/portfolio"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/amentotech"
+msgstr ""
