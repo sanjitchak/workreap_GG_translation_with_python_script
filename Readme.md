@@ -1,6 +1,6 @@
-Po files are LOCOTRANSLATE plugin files.
+.po files are LOCOTRANSLATE plugin files.
 
-JSON files are SNIPPETS plugin file, to add custom woocommerce code
+JSON file are SNIPPETS plugin file, to add custom woocommerce code
 
 
 Some custom code added in digitalmarket.com workreap theme:-
