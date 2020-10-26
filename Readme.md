@@ -34,3 +34,5 @@ ADD this:-
 To change default search category.
 
 4. Fixed inconsistent update by switching off cloudways VARNISH and cache.
+
+5. Add code in "workreap_api" plugin at "workreap_api\lib\api". Check in "services.php" and "get_freelancers.php" file - "//code added by Sanjit" comment
